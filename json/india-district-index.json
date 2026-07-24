@@ -1,0 +1,5588 @@
+{
+  "states": {
+    "ANDAMAN AND NICOBAR ISLANDS": {
+      "NORTH AND MIDDLE ANDAMAN": {
+        "district": "NORTH AND MIDDLE ANDAMAN",
+        "districtLGD": "639",
+        "state": "ANDAMAN AND NICOBAR ISLANDS",
+        "stateLGD": "35",
+        "jsonFile": "ANDAMAN AND NICOBAR ISLANDS.json"
+      },
+      "SOUTH ANDAMANS": {
+        "district": "SOUTH ANDAMANS",
+        "districtLGD": "640",
+        "state": "ANDAMAN AND NICOBAR ISLANDS",
+        "stateLGD": "35",
+        "jsonFile": "ANDAMAN AND NICOBAR ISLANDS.json"
+      },
+      "NICOBARS": {
+        "district": "NICOBARS",
+        "districtLGD": "638",
+        "state": "ANDAMAN AND NICOBAR ISLANDS",
+        "stateLGD": "35",
+        "jsonFile": "ANDAMAN AND NICOBAR ISLANDS.json"
+      }
+    },
+    "ANDHRA PRADESH": {
+      "ALLURI SITARAMA RAJU": {
+        "district": "ALLURI SITARAMA RAJU",
+        "districtLGD": "684",
+        "state": "ANDHRA PRADESH",
+        "stateLGD": "28",
+        "jsonFile": "ANDHRA PRADESH.json"
+      },
+      "ANAKAPALLI": {
+        "district": "ANAKAPALLI",
+        "districtLGD": "685",
+        "state": "ANDHRA PRADESH",
+        "stateLGD": "28",
+        "jsonFile": "ANDHRA PRADESH.json"
+      },
+      "ANANTHAPURAMU": {
+        "district": "ANANTHAPURAMU",
+        "districtLGD": "553",
+        "state": "ANDHRA PRADESH",
+        "stateLGD": "28",
+        "jsonFile": "ANDHRA PRADESH.json"
+      },
+      "ANNAMAYYA": {
+        "district": "ANNAMAYYA",
+        "districtLGD": "693",
+        "state": "ANDHRA PRADESH",
+        "stateLGD": "28",
+        "jsonFile": "ANDHRA PRADESH.json"
+      },
+      "BAPATLA": {
+        "district": "BAPATLA",
+        "districtLGD": "691",
+        "state": "ANDHRA PRADESH",
+        "stateLGD": "28",
+        "jsonFile": "ANDHRA PRADESH.json"
+      },
+      "CHITTOOR": {
+        "district": "CHITTOOR",
+        "districtLGD": "554",
+        "state": "ANDHRA PRADESH",
+        "stateLGD": "28",
+        "jsonFile": "ANDHRA PRADESH.json"
+      },
+      "DR. B.R. AMBEDKAR KONASEEMA": {
+        "district": "DR. B.R. AMBEDKAR KONASEEMA",
+        "districtLGD": "687",
+        "state": "ANDHRA PRADESH",
+        "stateLGD": "28",
+        "jsonFile": "ANDHRA PRADESH.json"
+      },
+      "EAST GODAVARI": {
+        "district": "EAST GODAVARI",
+        "districtLGD": "545",
+        "state": "ANDHRA PRADESH",
+        "stateLGD": "28",
+        "jsonFile": "ANDHRA PRADESH.json"
+      },
+      "ELURU": {
+        "district": "ELURU",
+        "districtLGD": "688",
+        "state": "ANDHRA PRADESH",
+        "stateLGD": "28",
+        "jsonFile": "ANDHRA PRADESH.json"
+      },
+      "GUNTUR": {
+        "district": "GUNTUR",
+        "districtLGD": "548",
+        "state": "ANDHRA PRADESH",
+        "stateLGD": "28",
+        "jsonFile": "ANDHRA PRADESH.json"
+      },
+      "KAKINADA": {
+        "district": "KAKINADA",
+        "districtLGD": "686",
+        "state": "ANDHRA PRADESH",
+        "stateLGD": "28",
+        "jsonFile": "ANDHRA PRADESH.json"
+      },
+      "KRISHNA": {
+        "district": "KRISHNA",
+        "districtLGD": "547",
+        "state": "ANDHRA PRADESH",
+        "stateLGD": "28",
+        "jsonFile": "ANDHRA PRADESH.json"
+      },
+      "KURNOOL": {
+        "district": "KURNOOL",
+        "districtLGD": "552",
+        "state": "ANDHRA PRADESH",
+        "stateLGD": "28",
+        "jsonFile": "ANDHRA PRADESH.json"
+      },
+      "NANDYAL": {
+        "district": "NANDYAL",
+        "districtLGD": "694",
+        "state": "ANDHRA PRADESH",
+        "stateLGD": "28",
+        "jsonFile": "ANDHRA PRADESH.json"
+      },
+      "NTR": {
+        "district": "NTR",
+        "districtLGD": "689",
+        "state": "ANDHRA PRADESH",
+        "stateLGD": "28",
+        "jsonFile": "ANDHRA PRADESH.json"
+      },
+      "PALNADU": {
+        "district": "PALNADU",
+        "districtLGD": "690",
+        "state": "ANDHRA PRADESH",
+        "stateLGD": "28",
+        "jsonFile": "ANDHRA PRADESH.json"
+      },
+      "PARVATHIPURAM MANYAM": {
+        "district": "PARVATHIPURAM MANYAM",
+        "districtLGD": "683",
+        "state": "ANDHRA PRADESH",
+        "stateLGD": "28",
+        "jsonFile": "ANDHRA PRADESH.json"
+      },
+      "MARKAPURAM": {
+        "district": "MARKAPURAM",
+        "districtLGD": "790",
+        "state": "ANDHRA PRADESH",
+        "stateLGD": "28",
+        "jsonFile": "ANDHRA PRADESH.json"
+      },
+      "SRI POTTI SRIRAMULU NELLORE": {
+        "district": "SRI POTTI SRIRAMULU NELLORE",
+        "districtLGD": "550",
+        "state": "ANDHRA PRADESH",
+        "stateLGD": "28",
+        "jsonFile": "ANDHRA PRADESH.json"
+      },
+      "SRI SATHYA SAI": {
+        "district": "SRI SATHYA SAI",
+        "districtLGD": "695",
+        "state": "ANDHRA PRADESH",
+        "stateLGD": "28",
+        "jsonFile": "ANDHRA PRADESH.json"
+      },
+      "SRIKAKULAM": {
+        "district": "SRIKAKULAM",
+        "districtLGD": "542",
+        "state": "ANDHRA PRADESH",
+        "stateLGD": "28",
+        "jsonFile": "ANDHRA PRADESH.json"
+      },
+      "TIRUPATI": {
+        "district": "TIRUPATI",
+        "districtLGD": "692",
+        "state": "ANDHRA PRADESH",
+        "stateLGD": "28",
+        "jsonFile": "ANDHRA PRADESH.json"
+      },
+      "VISAKHAPATNAM": {
+        "district": "VISAKHAPATNAM",
+        "districtLGD": "544",
+        "state": "ANDHRA PRADESH",
+        "stateLGD": "28",
+        "jsonFile": "ANDHRA PRADESH.json"
+      },
+      "VIZIANAGARAM": {
+        "district": "VIZIANAGARAM",
+        "districtLGD": "543",
+        "state": "ANDHRA PRADESH",
+        "stateLGD": "28",
+        "jsonFile": "ANDHRA PRADESH.json"
+      },
+      "WEST GODAVARI": {
+        "district": "WEST GODAVARI",
+        "districtLGD": "546",
+        "state": "ANDHRA PRADESH",
+        "stateLGD": "28",
+        "jsonFile": "ANDHRA PRADESH.json"
+      },
+      "Y.S.R.": {
+        "district": "Y.S.R.",
+        "districtLGD": "551",
+        "state": "ANDHRA PRADESH",
+        "stateLGD": "28",
+        "jsonFile": "ANDHRA PRADESH.json"
+      },
+      "POLAVARAM": {
+        "district": "POLAVARAM",
+        "districtLGD": "791",
+        "state": "ANDHRA PRADESH",
+        "stateLGD": "28",
+        "jsonFile": "ANDHRA PRADESH.json"
+      },
+      "PRAKASAM": {
+        "district": "PRAKASAM",
+        "districtLGD": "549",
+        "state": "ANDHRA PRADESH",
+        "stateLGD": "28",
+        "jsonFile": "ANDHRA PRADESH.json"
+      }
+    },
+    "ARUNACHAL PRADESH": {
+      "ANJAW": {
+        "district": "ANJAW",
+        "districtLGD": "260",
+        "state": "ARUNACHAL PRADESH",
+        "stateLGD": "12",
+        "jsonFile": "ARUNACHAL PRADESH.json"
+      },
+      "CHANGLANG": {
+        "district": "CHANGLANG",
+        "districtLGD": "253",
+        "state": "ARUNACHAL PRADESH",
+        "stateLGD": "12",
+        "jsonFile": "ARUNACHAL PRADESH.json"
+      },
+      "DIBANG VALLEY": {
+        "district": "DIBANG VALLEY",
+        "districtLGD": "257",
+        "state": "ARUNACHAL PRADESH",
+        "stateLGD": "12",
+        "jsonFile": "ARUNACHAL PRADESH.json"
+      },
+      "EAST KAMENG": {
+        "district": "EAST KAMENG",
+        "districtLGD": "247",
+        "state": "ARUNACHAL PRADESH",
+        "stateLGD": "12",
+        "jsonFile": "ARUNACHAL PRADESH.json"
+      },
+      "EAST SIANG": {
+        "district": "EAST SIANG",
+        "districtLGD": "251",
+        "state": "ARUNACHAL PRADESH",
+        "stateLGD": "12",
+        "jsonFile": "ARUNACHAL PRADESH.json"
+      },
+      "KURUNG KUMEY": {
+        "district": "KURUNG KUMEY",
+        "districtLGD": "256",
+        "state": "ARUNACHAL PRADESH",
+        "stateLGD": "12",
+        "jsonFile": "ARUNACHAL PRADESH.json"
+      },
+      "LOWER DIBANG VALLEY": {
+        "district": "LOWER DIBANG VALLEY",
+        "districtLGD": "258",
+        "state": "ARUNACHAL PRADESH",
+        "stateLGD": "12",
+        "jsonFile": "ARUNACHAL PRADESH.json"
+      },
+      "PAPUMPARE": {
+        "district": "PAPUMPARE",
+        "districtLGD": "248",
+        "state": "ARUNACHAL PRADESH",
+        "stateLGD": "12",
+        "jsonFile": "ARUNACHAL PRADESH.json"
+      },
+      "TAWANG": {
+        "district": "TAWANG",
+        "districtLGD": "245",
+        "state": "ARUNACHAL PRADESH",
+        "stateLGD": "12",
+        "jsonFile": "ARUNACHAL PRADESH.json"
+      },
+      "TIRAP": {
+        "district": "TIRAP",
+        "districtLGD": "254",
+        "state": "ARUNACHAL PRADESH",
+        "stateLGD": "12",
+        "jsonFile": "ARUNACHAL PRADESH.json"
+      },
+      "UPPER SIANG": {
+        "district": "UPPER SIANG",
+        "districtLGD": "252",
+        "state": "ARUNACHAL PRADESH",
+        "stateLGD": "12",
+        "jsonFile": "ARUNACHAL PRADESH.json"
+      },
+      "UPPER SUBANSIRI": {
+        "district": "UPPER SUBANSIRI",
+        "districtLGD": "249",
+        "state": "ARUNACHAL PRADESH",
+        "stateLGD": "12",
+        "jsonFile": "ARUNACHAL PRADESH.json"
+      },
+      "WEST KAMENG": {
+        "district": "WEST KAMENG",
+        "districtLGD": "246",
+        "state": "ARUNACHAL PRADESH",
+        "stateLGD": "12",
+        "jsonFile": "ARUNACHAL PRADESH.json"
+      },
+      "SHI YOMI": {
+        "district": "SHI YOMI",
+        "districtLGD": "730",
+        "state": "ARUNACHAL PRADESH",
+        "stateLGD": "12",
+        "jsonFile": "ARUNACHAL PRADESH.json"
+      },
+      "NAMSAI": {
+        "district": "NAMSAI",
+        "districtLGD": "724",
+        "state": "ARUNACHAL PRADESH",
+        "stateLGD": "12",
+        "jsonFile": "ARUNACHAL PRADESH.json"
+      },
+      "WEST SIANG": {
+        "district": "WEST SIANG",
+        "districtLGD": "250",
+        "state": "ARUNACHAL PRADESH",
+        "stateLGD": "12",
+        "jsonFile": "ARUNACHAL PRADESH.json"
+      },
+      "SIANG": {
+        "district": "SIANG",
+        "districtLGD": "722",
+        "state": "ARUNACHAL PRADESH",
+        "stateLGD": "12",
+        "jsonFile": "ARUNACHAL PRADESH.json"
+      },
+      "LONGDING": {
+        "district": "LONGDING",
+        "districtLGD": "680",
+        "state": "ARUNACHAL PRADESH",
+        "stateLGD": "12",
+        "jsonFile": "ARUNACHAL PRADESH.json"
+      },
+      "PAKKE KESSANG": {
+        "district": "PAKKE KESSANG",
+        "districtLGD": "726",
+        "state": "ARUNACHAL PRADESH",
+        "stateLGD": "12",
+        "jsonFile": "ARUNACHAL PRADESH.json"
+      },
+      "LOWER SIANG": {
+        "district": "LOWER SIANG",
+        "districtLGD": "723",
+        "state": "ARUNACHAL PRADESH",
+        "stateLGD": "12",
+        "jsonFile": "ARUNACHAL PRADESH.json"
+      },
+      "LEPA RADA": {
+        "district": "LEPA RADA",
+        "districtLGD": "729",
+        "state": "ARUNACHAL PRADESH",
+        "stateLGD": "12",
+        "jsonFile": "ARUNACHAL PRADESH.json"
+      },
+      "BICHOM": {
+        "district": "BICHOM",
+        "districtLGD": "788",
+        "state": "ARUNACHAL PRADESH",
+        "stateLGD": "12",
+        "jsonFile": "ARUNACHAL PRADESH.json"
+      },
+      "KRA DAADI": {
+        "district": "KRA DAADI",
+        "districtLGD": "721",
+        "state": "ARUNACHAL PRADESH",
+        "stateLGD": "12",
+        "jsonFile": "ARUNACHAL PRADESH.json"
+      },
+      "KAMLE": {
+        "district": "KAMLE",
+        "districtLGD": "733",
+        "state": "ARUNACHAL PRADESH",
+        "stateLGD": "12",
+        "jsonFile": "ARUNACHAL PRADESH.json"
+      },
+      "KEYI PANYOR": {
+        "district": "KEYI PANYOR",
+        "districtLGD": "789",
+        "state": "ARUNACHAL PRADESH",
+        "stateLGD": "12",
+        "jsonFile": "ARUNACHAL PRADESH.json"
+      },
+      "LOWER SUBANSIRI": {
+        "district": "LOWER SUBANSIRI",
+        "districtLGD": "255",
+        "state": "ARUNACHAL PRADESH",
+        "stateLGD": "12",
+        "jsonFile": "ARUNACHAL PRADESH.json"
+      },
+      "LOHIT": {
+        "district": "LOHIT",
+        "districtLGD": "259",
+        "state": "ARUNACHAL PRADESH",
+        "stateLGD": "12",
+        "jsonFile": "ARUNACHAL PRADESH.json"
+      }
+    },
+    "ASSAM": {
+      "KOKRAJHAR": {
+        "district": "KOKRAJHAR",
+        "districtLGD": "300",
+        "state": "ASSAM",
+        "stateLGD": "18",
+        "jsonFile": "ASSAM.json"
+      },
+      "CHIRANG": {
+        "district": "CHIRANG",
+        "districtLGD": "320",
+        "state": "ASSAM",
+        "stateLGD": "18",
+        "jsonFile": "ASSAM.json"
+      },
+      "UDALGURI": {
+        "district": "UDALGURI",
+        "districtLGD": "326",
+        "state": "ASSAM",
+        "stateLGD": "18",
+        "jsonFile": "ASSAM.json"
+      },
+      "BAKSA": {
+        "district": "BAKSA",
+        "districtLGD": "324",
+        "state": "ASSAM",
+        "stateLGD": "18",
+        "jsonFile": "ASSAM.json"
+      },
+      "DHUBRI": {
+        "district": "DHUBRI",
+        "districtLGD": "301",
+        "state": "ASSAM",
+        "stateLGD": "18",
+        "jsonFile": "ASSAM.json"
+      },
+      "DARANG": {
+        "district": "DARANG",
+        "districtLGD": "325",
+        "state": "ASSAM",
+        "stateLGD": "18",
+        "jsonFile": "ASSAM.json"
+      },
+      "KARBI ANGLONG": {
+        "district": "KARBI ANGLONG",
+        "districtLGD": "314",
+        "state": "ASSAM",
+        "stateLGD": "18",
+        "jsonFile": "ASSAM.json"
+      },
+      "DIMA HASAO": {
+        "district": "DIMA HASAO",
+        "districtLGD": "315",
+        "state": "ASSAM",
+        "stateLGD": "18",
+        "jsonFile": "ASSAM.json"
+      },
+      "CACHAR": {
+        "district": "CACHAR",
+        "districtLGD": "316",
+        "state": "ASSAM",
+        "stateLGD": "18",
+        "jsonFile": "ASSAM.json"
+      },
+      "SRIBHUMI": {
+        "district": "SRIBHUMI",
+        "districtLGD": "317",
+        "state": "ASSAM",
+        "stateLGD": "18",
+        "jsonFile": "ASSAM.json"
+      },
+      "HAILAKANDI": {
+        "district": "HAILAKANDI",
+        "districtLGD": "318",
+        "state": "ASSAM",
+        "stateLGD": "18",
+        "jsonFile": "ASSAM.json"
+      },
+      "WEST KARBI ANAGLONG": {
+        "district": "WEST KARBI ANAGLONG",
+        "districtLGD": "752",
+        "state": "ASSAM",
+        "stateLGD": "18",
+        "jsonFile": "ASSAM.json"
+      },
+      "JORHAT": {
+        "district": "JORHAT",
+        "districtLGD": "312",
+        "state": "ASSAM",
+        "stateLGD": "18",
+        "jsonFile": "ASSAM.json"
+      },
+      "GOLAGHAT": {
+        "district": "GOLAGHAT",
+        "districtLGD": "313",
+        "state": "ASSAM",
+        "stateLGD": "18",
+        "jsonFile": "ASSAM.json"
+      },
+      "SONITPUR": {
+        "district": "SONITPUR",
+        "districtLGD": "306",
+        "state": "ASSAM",
+        "stateLGD": "18",
+        "jsonFile": "ASSAM.json"
+      },
+      "DHEMAJI": {
+        "district": "DHEMAJI",
+        "districtLGD": "308",
+        "state": "ASSAM",
+        "stateLGD": "18",
+        "jsonFile": "ASSAM.json"
+      },
+      "CHARAIDEO": {
+        "district": "CHARAIDEO",
+        "districtLGD": "704",
+        "state": "ASSAM",
+        "stateLGD": "18",
+        "jsonFile": "ASSAM.json"
+      },
+      "TINSUKIA": {
+        "district": "TINSUKIA",
+        "districtLGD": "309",
+        "state": "ASSAM",
+        "stateLGD": "18",
+        "jsonFile": "ASSAM.json"
+      },
+      "LAKHIMPUR": {
+        "district": "LAKHIMPUR",
+        "districtLGD": "307",
+        "state": "ASSAM",
+        "stateLGD": "18",
+        "jsonFile": "ASSAM.json"
+      },
+      "MAJULI": {
+        "district": "MAJULI",
+        "districtLGD": "707",
+        "state": "ASSAM",
+        "stateLGD": "18",
+        "jsonFile": "ASSAM.json"
+      },
+      "SIBSAGAR": {
+        "district": "SIBSAGAR",
+        "districtLGD": "311",
+        "state": "ASSAM",
+        "stateLGD": "18",
+        "jsonFile": "ASSAM.json"
+      },
+      "NAGAON": {
+        "district": "NAGAON",
+        "districtLGD": "305",
+        "state": "ASSAM",
+        "stateLGD": "18",
+        "jsonFile": "ASSAM.json"
+      },
+      "MARIGAON": {
+        "district": "MARIGAON",
+        "districtLGD": "304",
+        "state": "ASSAM",
+        "stateLGD": "18",
+        "jsonFile": "ASSAM.json"
+      },
+      "KAMRUP METRO": {
+        "district": "KAMRUP METRO",
+        "districtLGD": "322",
+        "state": "ASSAM",
+        "stateLGD": "18",
+        "jsonFile": "ASSAM.json"
+      },
+      "NALBARI": {
+        "district": "NALBARI",
+        "districtLGD": "323",
+        "state": "ASSAM",
+        "stateLGD": "18",
+        "jsonFile": "ASSAM.json"
+      },
+      "GOALPARA": {
+        "district": "GOALPARA",
+        "districtLGD": "302",
+        "state": "ASSAM",
+        "stateLGD": "18",
+        "jsonFile": "ASSAM.json"
+      },
+      "BONGAIGAON": {
+        "district": "BONGAIGAON",
+        "districtLGD": "319",
+        "state": "ASSAM",
+        "stateLGD": "18",
+        "jsonFile": "ASSAM.json"
+      },
+      "KAMRUP RURAL": {
+        "district": "KAMRUP RURAL",
+        "districtLGD": "321",
+        "state": "ASSAM",
+        "stateLGD": "18",
+        "jsonFile": "ASSAM.json"
+      },
+      "DIBRUGARH": {
+        "district": "DIBRUGARH",
+        "districtLGD": "310",
+        "state": "ASSAM",
+        "stateLGD": "18",
+        "jsonFile": "ASSAM.json"
+      },
+      "HOJAI": {
+        "district": "HOJAI",
+        "districtLGD": "720",
+        "state": "ASSAM",
+        "stateLGD": "18",
+        "jsonFile": "ASSAM.json"
+      },
+      "TAMULPUR": {
+        "district": "TAMULPUR",
+        "districtLGD": "766",
+        "state": "ASSAM",
+        "stateLGD": "18",
+        "jsonFile": "ASSAM.json"
+      },
+      "BISWANATH": {
+        "district": "BISWANATH",
+        "districtLGD": "734",
+        "state": "ASSAM",
+        "stateLGD": "18",
+        "jsonFile": "ASSAM.json"
+      },
+      "BARPETA": {
+        "district": "BARPETA",
+        "districtLGD": "303",
+        "state": "ASSAM",
+        "stateLGD": "18",
+        "jsonFile": "ASSAM.json"
+      },
+      "BAJALI": {
+        "district": "BAJALI",
+        "districtLGD": "771",
+        "state": "ASSAM",
+        "stateLGD": "18",
+        "jsonFile": "ASSAM.json"
+      },
+      "SOUTH SALMARA": {
+        "district": "SOUTH SALMARA",
+        "districtLGD": "664",
+        "state": "ASSAM",
+        "stateLGD": "18",
+        "jsonFile": "ASSAM.json"
+      }
+    },
+    "BIHAR": {
+      "ARARIA": {
+        "district": "ARARIA",
+        "districtLGD": "209",
+        "state": "BIHAR",
+        "stateLGD": "10",
+        "jsonFile": "BIHAR.json"
+      },
+      "ARWAL": {
+        "district": "ARWAL",
+        "districtLGD": "240",
+        "state": "BIHAR",
+        "stateLGD": "10",
+        "jsonFile": "BIHAR.json"
+      },
+      "AURANGABAD": {
+        "district": "AURANGABAD",
+        "districtLGD": "235",
+        "state": "BIHAR",
+        "stateLGD": "10",
+        "jsonFile": "BIHAR.json"
+      },
+      "BANKA": {
+        "district": "BANKA",
+        "districtLGD": "225",
+        "state": "BIHAR",
+        "stateLGD": "10",
+        "jsonFile": "BIHAR.json"
+      },
+      "BEGUSARAI": {
+        "district": "BEGUSARAI",
+        "districtLGD": "222",
+        "state": "BIHAR",
+        "stateLGD": "10",
+        "jsonFile": "BIHAR.json"
+      },
+      "BHAGALPUR": {
+        "district": "BHAGALPUR",
+        "districtLGD": "224",
+        "state": "BIHAR",
+        "stateLGD": "10",
+        "jsonFile": "BIHAR.json"
+      },
+      "BHOJPUR": {
+        "district": "BHOJPUR",
+        "districtLGD": "231",
+        "state": "BIHAR",
+        "stateLGD": "10",
+        "jsonFile": "BIHAR.json"
+      },
+      "BUXAR": {
+        "district": "BUXAR",
+        "districtLGD": "232",
+        "state": "BIHAR",
+        "stateLGD": "10",
+        "jsonFile": "BIHAR.json"
+      },
+      "DARBHANGA": {
+        "district": "DARBHANGA",
+        "districtLGD": "215",
+        "state": "BIHAR",
+        "stateLGD": "10",
+        "jsonFile": "BIHAR.json"
+      },
+      "GAYA": {
+        "district": "GAYA",
+        "districtLGD": "236",
+        "state": "BIHAR",
+        "stateLGD": "10",
+        "jsonFile": "BIHAR.json"
+      },
+      "GOPALGANJ": {
+        "district": "GOPALGANJ",
+        "districtLGD": "217",
+        "state": "BIHAR",
+        "stateLGD": "10",
+        "jsonFile": "BIHAR.json"
+      },
+      "JAMUI": {
+        "district": "JAMUI",
+        "districtLGD": "238",
+        "state": "BIHAR",
+        "stateLGD": "10",
+        "jsonFile": "BIHAR.json"
+      },
+      "JEHANABAD": {
+        "district": "JEHANABAD",
+        "districtLGD": "239",
+        "state": "BIHAR",
+        "stateLGD": "10",
+        "jsonFile": "BIHAR.json"
+      },
+      "KAIMUR (BHABUA)": {
+        "district": "KAIMUR (BHABUA)",
+        "districtLGD": "233",
+        "state": "BIHAR",
+        "stateLGD": "10",
+        "jsonFile": "BIHAR.json"
+      },
+      "KATIHAR": {
+        "district": "KATIHAR",
+        "districtLGD": "212",
+        "state": "BIHAR",
+        "stateLGD": "10",
+        "jsonFile": "BIHAR.json"
+      },
+      "KHAGARIA": {
+        "district": "KHAGARIA",
+        "districtLGD": "223",
+        "state": "BIHAR",
+        "stateLGD": "10",
+        "jsonFile": "BIHAR.json"
+      },
+      "KISHANGANJ": {
+        "district": "KISHANGANJ",
+        "districtLGD": "210",
+        "state": "BIHAR",
+        "stateLGD": "10",
+        "jsonFile": "BIHAR.json"
+      },
+      "LAKHISARAI": {
+        "district": "LAKHISARAI",
+        "districtLGD": "227",
+        "state": "BIHAR",
+        "stateLGD": "10",
+        "jsonFile": "BIHAR.json"
+      },
+      "MADHEPURA": {
+        "district": "MADHEPURA",
+        "districtLGD": "213",
+        "state": "BIHAR",
+        "stateLGD": "10",
+        "jsonFile": "BIHAR.json"
+      },
+      "MADHUBANI": {
+        "district": "MADHUBANI",
+        "districtLGD": "207",
+        "state": "BIHAR",
+        "stateLGD": "10",
+        "jsonFile": "BIHAR.json"
+      },
+      "MUNGER": {
+        "district": "MUNGER",
+        "districtLGD": "226",
+        "state": "BIHAR",
+        "stateLGD": "10",
+        "jsonFile": "BIHAR.json"
+      },
+      "MUZAFFARPUR": {
+        "district": "MUZAFFARPUR",
+        "districtLGD": "216",
+        "state": "BIHAR",
+        "stateLGD": "10",
+        "jsonFile": "BIHAR.json"
+      },
+      "NALANDA": {
+        "district": "NALANDA",
+        "districtLGD": "229",
+        "state": "BIHAR",
+        "stateLGD": "10",
+        "jsonFile": "BIHAR.json"
+      },
+      "NAWADA": {
+        "district": "NAWADA",
+        "districtLGD": "237",
+        "state": "BIHAR",
+        "stateLGD": "10",
+        "jsonFile": "BIHAR.json"
+      },
+      "PASHCHIM CHAMPARAN": {
+        "district": "PASHCHIM CHAMPARAN",
+        "districtLGD": "203",
+        "state": "BIHAR",
+        "stateLGD": "10",
+        "jsonFile": "BIHAR.json"
+      },
+      "PATNA": {
+        "district": "PATNA",
+        "districtLGD": "230",
+        "state": "BIHAR",
+        "stateLGD": "10",
+        "jsonFile": "BIHAR.json"
+      },
+      "PURBA CHAMPARAN": {
+        "district": "PURBA CHAMPARAN",
+        "districtLGD": "204",
+        "state": "BIHAR",
+        "stateLGD": "10",
+        "jsonFile": "BIHAR.json"
+      },
+      "PURNIA": {
+        "district": "PURNIA",
+        "districtLGD": "211",
+        "state": "BIHAR",
+        "stateLGD": "10",
+        "jsonFile": "BIHAR.json"
+      },
+      "ROHTAS": {
+        "district": "ROHTAS",
+        "districtLGD": "234",
+        "state": "BIHAR",
+        "stateLGD": "10",
+        "jsonFile": "BIHAR.json"
+      },
+      "SAHARSA": {
+        "district": "SAHARSA",
+        "districtLGD": "214",
+        "state": "BIHAR",
+        "stateLGD": "10",
+        "jsonFile": "BIHAR.json"
+      },
+      "SAMASTIPUR": {
+        "district": "SAMASTIPUR",
+        "districtLGD": "221",
+        "state": "BIHAR",
+        "stateLGD": "10",
+        "jsonFile": "BIHAR.json"
+      },
+      "SARAN": {
+        "district": "SARAN",
+        "districtLGD": "219",
+        "state": "BIHAR",
+        "stateLGD": "10",
+        "jsonFile": "BIHAR.json"
+      },
+      "SHEIKHPURA": {
+        "district": "SHEIKHPURA",
+        "districtLGD": "228",
+        "state": "BIHAR",
+        "stateLGD": "10",
+        "jsonFile": "BIHAR.json"
+      },
+      "SHEOHAR": {
+        "district": "SHEOHAR",
+        "districtLGD": "205",
+        "state": "BIHAR",
+        "stateLGD": "10",
+        "jsonFile": "BIHAR.json"
+      },
+      "SITAMARHI": {
+        "district": "SITAMARHI",
+        "districtLGD": "206",
+        "state": "BIHAR",
+        "stateLGD": "10",
+        "jsonFile": "BIHAR.json"
+      },
+      "SIWAN": {
+        "district": "SIWAN",
+        "districtLGD": "218",
+        "state": "BIHAR",
+        "stateLGD": "10",
+        "jsonFile": "BIHAR.json"
+      },
+      "SUPAUL": {
+        "district": "SUPAUL",
+        "districtLGD": "208",
+        "state": "BIHAR",
+        "stateLGD": "10",
+        "jsonFile": "BIHAR.json"
+      },
+      "VAISHALI": {
+        "district": "VAISHALI",
+        "districtLGD": "220",
+        "state": "BIHAR",
+        "stateLGD": "10",
+        "jsonFile": "BIHAR.json"
+      }
+    },
+    "CHANDIGARH": {
+      "CHANDIGARH": {
+        "district": "CHANDIGARH",
+        "districtLGD": "055",
+        "state": "CHANDIGARH",
+        "stateLGD": "04",
+        "jsonFile": "CHANDIGARH.json"
+      }
+    },
+    "CHHATTISGARH": {
+      "KAWARDHA (KABIRDHAM)": {
+        "district": "KAWARDHA (KABIRDHAM)",
+        "districtLGD": "407",
+        "state": "CHHATTISGARH",
+        "stateLGD": "22",
+        "jsonFile": "CHHATTISGARH.json"
+      },
+      "GAURELA-PENDRA-MARWAHI": {
+        "district": "GAURELA-PENDRA-MARWAHI",
+        "districtLGD": "669",
+        "state": "CHHATTISGARH",
+        "stateLGD": "22",
+        "jsonFile": "CHHATTISGARH.json"
+      },
+      "SURAJPUR": {
+        "district": "SURAJPUR",
+        "districtLGD": "641",
+        "state": "CHHATTISGARH",
+        "stateLGD": "22",
+        "jsonFile": "CHHATTISGARH.json"
+      },
+      "BALRAMPUR": {
+        "district": "BALRAMPUR",
+        "districtLGD": "642",
+        "state": "CHHATTISGARH",
+        "stateLGD": "22",
+        "jsonFile": "CHHATTISGARH.json"
+      },
+      "MUNGELI": {
+        "district": "MUNGELI",
+        "districtLGD": "643",
+        "state": "CHHATTISGARH",
+        "stateLGD": "22",
+        "jsonFile": "CHHATTISGARH.json"
+      },
+      "DAKSHIN BASTAR DANTEWARA": {
+        "district": "DAKSHIN BASTAR DANTEWARA",
+        "districtLGD": "416",
+        "state": "CHHATTISGARH",
+        "stateLGD": "22",
+        "jsonFile": "CHHATTISGARH.json"
+      },
+      "BIJAPUR": {
+        "district": "BIJAPUR",
+        "districtLGD": "417",
+        "state": "CHHATTISGARH",
+        "stateLGD": "22",
+        "jsonFile": "CHHATTISGARH.json"
+      },
+      "BASTAR": {
+        "district": "BASTAR",
+        "districtLGD": "414",
+        "state": "CHHATTISGARH",
+        "stateLGD": "22",
+        "jsonFile": "CHHATTISGARH.json"
+      },
+      "SUKMA": {
+        "district": "SUKMA",
+        "districtLGD": "649",
+        "state": "CHHATTISGARH",
+        "stateLGD": "22",
+        "jsonFile": "CHHATTISGARH.json"
+      },
+      "KONDAGAON": {
+        "district": "KONDAGAON",
+        "districtLGD": "648",
+        "state": "CHHATTISGARH",
+        "stateLGD": "22",
+        "jsonFile": "CHHATTISGARH.json"
+      },
+      "NARAYANPUR": {
+        "district": "NARAYANPUR",
+        "districtLGD": "415",
+        "state": "CHHATTISGARH",
+        "stateLGD": "22",
+        "jsonFile": "CHHATTISGARH.json"
+      },
+      "UTTAR BASTAR KANKER": {
+        "district": "UTTAR BASTAR KANKER",
+        "districtLGD": "413",
+        "state": "CHHATTISGARH",
+        "stateLGD": "22",
+        "jsonFile": "CHHATTISGARH.json"
+      },
+      "GARIYABAND": {
+        "district": "GARIYABAND",
+        "districtLGD": "647",
+        "state": "CHHATTISGARH",
+        "stateLGD": "22",
+        "jsonFile": "CHHATTISGARH.json"
+      },
+      "DHAMTARI": {
+        "district": "DHAMTARI",
+        "districtLGD": "412",
+        "state": "CHHATTISGARH",
+        "stateLGD": "22",
+        "jsonFile": "CHHATTISGARH.json"
+      },
+      "BALOD": {
+        "district": "BALOD",
+        "districtLGD": "645",
+        "state": "CHHATTISGARH",
+        "stateLGD": "22",
+        "jsonFile": "CHHATTISGARH.json"
+      },
+      "MAHASAMUND": {
+        "district": "MAHASAMUND",
+        "districtLGD": "411",
+        "state": "CHHATTISGARH",
+        "stateLGD": "22",
+        "jsonFile": "CHHATTISGARH.json"
+      },
+      "DURG": {
+        "district": "DURG",
+        "districtLGD": "409",
+        "state": "CHHATTISGARH",
+        "stateLGD": "22",
+        "jsonFile": "CHHATTISGARH.json"
+      },
+      "RAIPUR": {
+        "district": "RAIPUR",
+        "districtLGD": "410",
+        "state": "CHHATTISGARH",
+        "stateLGD": "22",
+        "jsonFile": "CHHATTISGARH.json"
+      },
+      "BEMETARA": {
+        "district": "BEMETARA",
+        "districtLGD": "644",
+        "state": "CHHATTISGARH",
+        "stateLGD": "22",
+        "jsonFile": "CHHATTISGARH.json"
+      },
+      "BILASPUR": {
+        "district": "BILASPUR",
+        "districtLGD": "406",
+        "state": "CHHATTISGARH",
+        "stateLGD": "22",
+        "jsonFile": "CHHATTISGARH.json"
+      },
+      "KORBA": {
+        "district": "KORBA",
+        "districtLGD": "404",
+        "state": "CHHATTISGARH",
+        "stateLGD": "22",
+        "jsonFile": "CHHATTISGARH.json"
+      },
+      "JASHPUR": {
+        "district": "JASHPUR",
+        "districtLGD": "402",
+        "state": "CHHATTISGARH",
+        "stateLGD": "22",
+        "jsonFile": "CHHATTISGARH.json"
+      },
+      "SURGUJA": {
+        "district": "SURGUJA",
+        "districtLGD": "401",
+        "state": "CHHATTISGARH",
+        "stateLGD": "22",
+        "jsonFile": "CHHATTISGARH.json"
+      },
+      "KHAIRGARH-CHHUIKHADAN-GANDAI": {
+        "district": "KHAIRGARH-CHHUIKHADAN-GANDAI",
+        "districtLGD": "755",
+        "state": "CHHATTISGARH",
+        "stateLGD": "22",
+        "jsonFile": "CHHATTISGARH.json"
+      },
+      "RAJNANDGAON": {
+        "district": "RAJNANDGAON",
+        "districtLGD": "408",
+        "state": "CHHATTISGARH",
+        "stateLGD": "22",
+        "jsonFile": "CHHATTISGARH.json"
+      },
+      "MOHLA-MANPUR-AMBAGARH CHOWKI": {
+        "district": "MOHLA-MANPUR-AMBAGARH CHOWKI",
+        "districtLGD": "756",
+        "state": "CHHATTISGARH",
+        "stateLGD": "22",
+        "jsonFile": "CHHATTISGARH.json"
+      },
+      "JANJGIR - CHAMPA": {
+        "district": "JANJGIR - CHAMPA",
+        "districtLGD": "405",
+        "state": "CHHATTISGARH",
+        "stateLGD": "22",
+        "jsonFile": "CHHATTISGARH.json"
+      },
+      "SAKTI": {
+        "district": "SAKTI",
+        "districtLGD": "759",
+        "state": "CHHATTISGARH",
+        "stateLGD": "22",
+        "jsonFile": "CHHATTISGARH.json"
+      },
+      "RAIGARH": {
+        "district": "RAIGARH",
+        "districtLGD": "403",
+        "state": "CHHATTISGARH",
+        "stateLGD": "22",
+        "jsonFile": "CHHATTISGARH.json"
+      },
+      "KOREA": {
+        "district": "KOREA",
+        "districtLGD": "400",
+        "state": "CHHATTISGARH",
+        "stateLGD": "22",
+        "jsonFile": "CHHATTISGARH.json"
+      },
+      "MANENDRAGARH-CHIRMIRI-BHARATPUR": {
+        "district": "MANENDRAGARH-CHIRMIRI-BHARATPUR",
+        "districtLGD": "758",
+        "state": "CHHATTISGARH",
+        "stateLGD": "22",
+        "jsonFile": "CHHATTISGARH.json"
+      },
+      "SARANGARH-BILAIGARH": {
+        "district": "SARANGARH-BILAIGARH",
+        "districtLGD": "757",
+        "state": "CHHATTISGARH",
+        "stateLGD": "22",
+        "jsonFile": "CHHATTISGARH.json"
+      },
+      "BALODA BAZAR": {
+        "district": "BALODA BAZAR",
+        "districtLGD": "646",
+        "state": "CHHATTISGARH",
+        "stateLGD": "22",
+        "jsonFile": "CHHATTISGARH.json"
+      }
+    },
+    "DADRA & NAGAR HAVELI & DAMAN & DIU": {
+      "DADRA AND NAGAR HAVELI": {
+        "district": "DADRA AND NAGAR HAVELI",
+        "districtLGD": "496",
+        "state": "DADRA & NAGAR HAVELI & DAMAN & DIU",
+        "stateLGD": "26",
+        "jsonFile": "DADRA & NAGAR HAVELI & DAMAN & DIU.json"
+      },
+      "DAMAN": {
+        "district": "DAMAN",
+        "districtLGD": "495",
+        "state": "DADRA & NAGAR HAVELI & DAMAN & DIU",
+        "stateLGD": "26",
+        "jsonFile": "DADRA & NAGAR HAVELI & DAMAN & DIU.json"
+      },
+      "DIU": {
+        "district": "DIU",
+        "districtLGD": "494",
+        "state": "DADRA & NAGAR HAVELI & DAMAN & DIU",
+        "stateLGD": "26",
+        "jsonFile": "DADRA & NAGAR HAVELI & DAMAN & DIU.json"
+      }
+    },
+    "DELHI": {
+      "NAZUL": {
+        "district": "NAZUL",
+        "districtLGD": "",
+        "state": "DELHI",
+        "stateLGD": "07",
+        "jsonFile": "DELHI.json"
+      },
+      "SOUTH WEST": {
+        "district": "SOUTH WEST",
+        "districtLGD": "097",
+        "state": "DELHI",
+        "stateLGD": "07",
+        "jsonFile": "DELHI.json"
+      },
+      "WEST": {
+        "district": "WEST",
+        "districtLGD": "096",
+        "state": "DELHI",
+        "stateLGD": "07",
+        "jsonFile": "DELHI.json"
+      },
+      "CENTRAL": {
+        "district": "CENTRAL",
+        "districtLGD": "095",
+        "state": "DELHI",
+        "stateLGD": "07",
+        "jsonFile": "DELHI.json"
+      },
+      "EAST": {
+        "district": "EAST",
+        "districtLGD": "093",
+        "state": "DELHI",
+        "stateLGD": "07",
+        "jsonFile": "DELHI.json"
+      },
+      "NEW DELHI": {
+        "district": "NEW DELHI",
+        "districtLGD": "094",
+        "state": "DELHI",
+        "stateLGD": "07",
+        "jsonFile": "DELHI.json"
+      },
+      "NORTH": {
+        "district": "NORTH",
+        "districtLGD": "091",
+        "state": "DELHI",
+        "stateLGD": "07",
+        "jsonFile": "DELHI.json"
+      },
+      "SHAHDARA": {
+        "district": "SHAHDARA",
+        "districtLGD": "676",
+        "state": "DELHI",
+        "stateLGD": "07",
+        "jsonFile": "DELHI.json"
+      },
+      "NORTH EAST": {
+        "district": "NORTH EAST",
+        "districtLGD": "092",
+        "state": "DELHI",
+        "stateLGD": "07",
+        "jsonFile": "DELHI.json"
+      },
+      "SOUTH EAST": {
+        "district": "SOUTH EAST",
+        "districtLGD": "677",
+        "state": "DELHI",
+        "stateLGD": "07",
+        "jsonFile": "DELHI.json"
+      },
+      "SOUTH": {
+        "district": "SOUTH",
+        "districtLGD": "098",
+        "state": "DELHI",
+        "stateLGD": "07",
+        "jsonFile": "DELHI.json"
+      },
+      "NORTH WEST": {
+        "district": "NORTH WEST",
+        "districtLGD": "090",
+        "state": "DELHI",
+        "stateLGD": "07",
+        "jsonFile": "DELHI.json"
+      }
+    },
+    "GOA": {
+      "NORTH GOA": {
+        "district": "NORTH GOA",
+        "districtLGD": "585",
+        "state": "GOA",
+        "stateLGD": "30",
+        "jsonFile": "GOA.json"
+      },
+      "KUSHAVATI": {
+        "district": "KUSHAVATI",
+        "districtLGD": "793",
+        "state": "GOA",
+        "stateLGD": "30",
+        "jsonFile": "GOA.json"
+      },
+      "SOUTH GOA": {
+        "district": "SOUTH GOA",
+        "districtLGD": "586",
+        "state": "GOA",
+        "stateLGD": "30",
+        "jsonFile": "GOA.json"
+      }
+    },
+    "GUJARAT": {
+      "AHMADABAD": {
+        "district": "AHMADABAD",
+        "districtLGD": "474",
+        "state": "GUJARAT",
+        "stateLGD": "24",
+        "jsonFile": "GUJARAT.json"
+      },
+      "AMRELI": {
+        "district": "AMRELI",
+        "districtLGD": "480",
+        "state": "GUJARAT",
+        "stateLGD": "24",
+        "jsonFile": "GUJARAT.json"
+      },
+      "ANAND": {
+        "district": "ANAND",
+        "districtLGD": "482",
+        "state": "GUJARAT",
+        "stateLGD": "24",
+        "jsonFile": "GUJARAT.json"
+      },
+      "ARVALLI": {
+        "district": "ARVALLI",
+        "districtLGD": "650",
+        "state": "GUJARAT",
+        "stateLGD": "24",
+        "jsonFile": "GUJARAT.json"
+      },
+      "BANAS KANTHA": {
+        "district": "BANAS KANTHA",
+        "districtLGD": "469",
+        "state": "GUJARAT",
+        "stateLGD": "24",
+        "jsonFile": "GUJARAT.json"
+      },
+      "BHARUCH": {
+        "district": "BHARUCH",
+        "districtLGD": "488",
+        "state": "GUJARAT",
+        "stateLGD": "24",
+        "jsonFile": "GUJARAT.json"
+      },
+      "BHAVNAGAR": {
+        "district": "BHAVNAGAR",
+        "districtLGD": "481",
+        "state": "GUJARAT",
+        "stateLGD": "24",
+        "jsonFile": "GUJARAT.json"
+      },
+      "BOTAD": {
+        "district": "BOTAD",
+        "districtLGD": "653",
+        "state": "GUJARAT",
+        "stateLGD": "24",
+        "jsonFile": "GUJARAT.json"
+      },
+      "CHHOTAUDEPUR": {
+        "district": "CHHOTAUDEPUR",
+        "districtLGD": "654",
+        "state": "GUJARAT",
+        "stateLGD": "24",
+        "jsonFile": "GUJARAT.json"
+      },
+      "DAHOD": {
+        "district": "DAHOD",
+        "districtLGD": "485",
+        "state": "GUJARAT",
+        "stateLGD": "24",
+        "jsonFile": "GUJARAT.json"
+      },
+      "DANGS": {
+        "district": "DANGS",
+        "districtLGD": "489",
+        "state": "GUJARAT",
+        "stateLGD": "24",
+        "jsonFile": "GUJARAT.json"
+      },
+      "DEVBHUMI DWARKA": {
+        "district": "DEVBHUMI DWARKA",
+        "districtLGD": "656",
+        "state": "GUJARAT",
+        "stateLGD": "24",
+        "jsonFile": "GUJARAT.json"
+      },
+      "GANDHINAGAR": {
+        "district": "GANDHINAGAR",
+        "districtLGD": "473",
+        "state": "GUJARAT",
+        "stateLGD": "24",
+        "jsonFile": "GUJARAT.json"
+      },
+      "GIR SOMNATH": {
+        "district": "GIR SOMNATH",
+        "districtLGD": "652",
+        "state": "GUJARAT",
+        "stateLGD": "24",
+        "jsonFile": "GUJARAT.json"
+      },
+      "JAMNAGAR": {
+        "district": "JAMNAGAR",
+        "districtLGD": "477",
+        "state": "GUJARAT",
+        "stateLGD": "24",
+        "jsonFile": "GUJARAT.json"
+      },
+      "JUNAGADH": {
+        "district": "JUNAGADH",
+        "districtLGD": "479",
+        "state": "GUJARAT",
+        "stateLGD": "24",
+        "jsonFile": "GUJARAT.json"
+      },
+      "KACHCHH": {
+        "district": "KACHCHH",
+        "districtLGD": "468",
+        "state": "GUJARAT",
+        "stateLGD": "24",
+        "jsonFile": "GUJARAT.json"
+      },
+      "KHEDA": {
+        "district": "KHEDA",
+        "districtLGD": "483",
+        "state": "GUJARAT",
+        "stateLGD": "24",
+        "jsonFile": "GUJARAT.json"
+      },
+      "MAHESANA": {
+        "district": "MAHESANA",
+        "districtLGD": "471",
+        "state": "GUJARAT",
+        "stateLGD": "24",
+        "jsonFile": "GUJARAT.json"
+      },
+      "MAHISAGAR": {
+        "district": "MAHISAGAR",
+        "districtLGD": "655",
+        "state": "GUJARAT",
+        "stateLGD": "24",
+        "jsonFile": "GUJARAT.json"
+      },
+      "MORBI": {
+        "district": "MORBI",
+        "districtLGD": "657",
+        "state": "GUJARAT",
+        "stateLGD": "24",
+        "jsonFile": "GUJARAT.json"
+      },
+      "NARMADA": {
+        "district": "NARMADA",
+        "districtLGD": "487",
+        "state": "GUJARAT",
+        "stateLGD": "24",
+        "jsonFile": "GUJARAT.json"
+      },
+      "NAVSARI": {
+        "district": "NAVSARI",
+        "districtLGD": "490",
+        "state": "GUJARAT",
+        "stateLGD": "24",
+        "jsonFile": "GUJARAT.json"
+      },
+      "PANCH MAHALS": {
+        "district": "PANCH MAHALS",
+        "districtLGD": "484",
+        "state": "GUJARAT",
+        "stateLGD": "24",
+        "jsonFile": "GUJARAT.json"
+      },
+      "PATAN": {
+        "district": "PATAN",
+        "districtLGD": "470",
+        "state": "GUJARAT",
+        "stateLGD": "24",
+        "jsonFile": "GUJARAT.json"
+      },
+      "PORBANDAR": {
+        "district": "PORBANDAR",
+        "districtLGD": "478",
+        "state": "GUJARAT",
+        "stateLGD": "24",
+        "jsonFile": "GUJARAT.json"
+      },
+      "RAJKOT": {
+        "district": "RAJKOT",
+        "districtLGD": "476",
+        "state": "GUJARAT",
+        "stateLGD": "24",
+        "jsonFile": "GUJARAT.json"
+      },
+      "SABAR KANTHA": {
+        "district": "SABAR KANTHA",
+        "districtLGD": "472",
+        "state": "GUJARAT",
+        "stateLGD": "24",
+        "jsonFile": "GUJARAT.json"
+      },
+      "SURAT": {
+        "district": "SURAT",
+        "districtLGD": "492",
+        "state": "GUJARAT",
+        "stateLGD": "24",
+        "jsonFile": "GUJARAT.json"
+      },
+      "SURENDRANAGAR": {
+        "district": "SURENDRANAGAR",
+        "districtLGD": "475",
+        "state": "GUJARAT",
+        "stateLGD": "24",
+        "jsonFile": "GUJARAT.json"
+      },
+      "TAPI": {
+        "district": "TAPI",
+        "districtLGD": "493",
+        "state": "GUJARAT",
+        "stateLGD": "24",
+        "jsonFile": "GUJARAT.json"
+      },
+      "VADODARA": {
+        "district": "VADODARA",
+        "districtLGD": "486",
+        "state": "GUJARAT",
+        "stateLGD": "24",
+        "jsonFile": "GUJARAT.json"
+      },
+      "VALSAD": {
+        "district": "VALSAD",
+        "districtLGD": "491",
+        "state": "GUJARAT",
+        "stateLGD": "24",
+        "jsonFile": "GUJARAT.json"
+      }
+    },
+    "HARYANA": {
+      "AMBALA": {
+        "district": "AMBALA",
+        "districtLGD": "070",
+        "state": "HARYANA",
+        "stateLGD": "06",
+        "jsonFile": "HARYANA.json"
+      },
+      "BHIWANI": {
+        "district": "BHIWANI",
+        "districtLGD": "081",
+        "state": "HARYANA",
+        "stateLGD": "06",
+        "jsonFile": "HARYANA.json"
+      },
+      "CHARKI DADRI": {
+        "district": "CHARKI DADRI",
+        "districtLGD": "732",
+        "state": "HARYANA",
+        "stateLGD": "06",
+        "jsonFile": "HARYANA.json"
+      },
+      "FARIDABAD": {
+        "district": "FARIDABAD",
+        "districtLGD": "088",
+        "state": "HARYANA",
+        "stateLGD": "06",
+        "jsonFile": "HARYANA.json"
+      },
+      "FATEHABAD": {
+        "district": "FATEHABAD",
+        "districtLGD": "078",
+        "state": "HARYANA",
+        "stateLGD": "06",
+        "jsonFile": "HARYANA.json"
+      },
+      "GURUGRAM": {
+        "district": "GURUGRAM",
+        "districtLGD": "086",
+        "state": "HARYANA",
+        "stateLGD": "06",
+        "jsonFile": "HARYANA.json"
+      },
+      "HISAR": {
+        "district": "HISAR",
+        "districtLGD": "080",
+        "state": "HARYANA",
+        "stateLGD": "06",
+        "jsonFile": "HARYANA.json"
+      },
+      "JHAJJAR": {
+        "district": "JHAJJAR",
+        "districtLGD": "083",
+        "state": "HARYANA",
+        "stateLGD": "06",
+        "jsonFile": "HARYANA.json"
+      },
+      "JIND": {
+        "district": "JIND",
+        "districtLGD": "077",
+        "state": "HARYANA",
+        "stateLGD": "06",
+        "jsonFile": "HARYANA.json"
+      },
+      "KAITHAL": {
+        "district": "KAITHAL",
+        "districtLGD": "073",
+        "state": "HARYANA",
+        "stateLGD": "06",
+        "jsonFile": "HARYANA.json"
+      },
+      "KARNAL": {
+        "district": "KARNAL",
+        "districtLGD": "074",
+        "state": "HARYANA",
+        "stateLGD": "06",
+        "jsonFile": "HARYANA.json"
+      },
+      "KURUKSHETRA": {
+        "district": "KURUKSHETRA",
+        "districtLGD": "072",
+        "state": "HARYANA",
+        "stateLGD": "06",
+        "jsonFile": "HARYANA.json"
+      },
+      "MAHENDRAGARH": {
+        "district": "MAHENDRAGARH",
+        "districtLGD": "084",
+        "state": "HARYANA",
+        "stateLGD": "06",
+        "jsonFile": "HARYANA.json"
+      },
+      "NUH": {
+        "district": "NUH",
+        "districtLGD": "087",
+        "state": "HARYANA",
+        "stateLGD": "06",
+        "jsonFile": "HARYANA.json"
+      },
+      "PALWAL": {
+        "district": "PALWAL",
+        "districtLGD": "089",
+        "state": "HARYANA",
+        "stateLGD": "06",
+        "jsonFile": "HARYANA.json"
+      },
+      "PANCHKULA": {
+        "district": "PANCHKULA",
+        "districtLGD": "069",
+        "state": "HARYANA",
+        "stateLGD": "06",
+        "jsonFile": "HARYANA.json"
+      },
+      "PANIPAT": {
+        "district": "PANIPAT",
+        "districtLGD": "075",
+        "state": "HARYANA",
+        "stateLGD": "06",
+        "jsonFile": "HARYANA.json"
+      },
+      "REWARI": {
+        "district": "REWARI",
+        "districtLGD": "085",
+        "state": "HARYANA",
+        "stateLGD": "06",
+        "jsonFile": "HARYANA.json"
+      },
+      "ROHTAK": {
+        "district": "ROHTAK",
+        "districtLGD": "082",
+        "state": "HARYANA",
+        "stateLGD": "06",
+        "jsonFile": "HARYANA.json"
+      },
+      "SIRSA": {
+        "district": "SIRSA",
+        "districtLGD": "079",
+        "state": "HARYANA",
+        "stateLGD": "06",
+        "jsonFile": "HARYANA.json"
+      },
+      "SONIPAT": {
+        "district": "SONIPAT",
+        "districtLGD": "076",
+        "state": "HARYANA",
+        "stateLGD": "06",
+        "jsonFile": "HARYANA.json"
+      },
+      "YAMUNANAGAR": {
+        "district": "YAMUNANAGAR",
+        "districtLGD": "071",
+        "state": "HARYANA",
+        "stateLGD": "06",
+        "jsonFile": "HARYANA.json"
+      }
+    },
+    "HIMACHAL PRADESH": {
+      "BILASPUR": {
+        "district": "BILASPUR",
+        "districtLGD": "030",
+        "state": "HIMACHAL PRADESH",
+        "stateLGD": "02",
+        "jsonFile": "HIMACHAL PRADESH.json"
+      },
+      "SHIMLA": {
+        "district": "SHIMLA",
+        "districtLGD": "033",
+        "state": "HIMACHAL PRADESH",
+        "stateLGD": "02",
+        "jsonFile": "HIMACHAL PRADESH.json"
+      },
+      "KINNAUR": {
+        "district": "KINNAUR",
+        "districtLGD": "034",
+        "state": "HIMACHAL PRADESH",
+        "stateLGD": "02",
+        "jsonFile": "HIMACHAL PRADESH.json"
+      },
+      "SOLAN": {
+        "district": "SOLAN",
+        "districtLGD": "031",
+        "state": "HIMACHAL PRADESH",
+        "stateLGD": "02",
+        "jsonFile": "HIMACHAL PRADESH.json"
+      },
+      "SIRMAUR": {
+        "district": "SIRMAUR",
+        "districtLGD": "032",
+        "state": "HIMACHAL PRADESH",
+        "stateLGD": "02",
+        "jsonFile": "HIMACHAL PRADESH.json"
+      },
+      "KULLU": {
+        "district": "KULLU",
+        "districtLGD": "026",
+        "state": "HIMACHAL PRADESH",
+        "stateLGD": "02",
+        "jsonFile": "HIMACHAL PRADESH.json"
+      },
+      "CHAMBA": {
+        "district": "CHAMBA",
+        "districtLGD": "023",
+        "state": "HIMACHAL PRADESH",
+        "stateLGD": "02",
+        "jsonFile": "HIMACHAL PRADESH.json"
+      },
+      "MANDI": {
+        "district": "MANDI",
+        "districtLGD": "027",
+        "state": "HIMACHAL PRADESH",
+        "stateLGD": "02",
+        "jsonFile": "HIMACHAL PRADESH.json"
+      },
+      "KANGRA": {
+        "district": "KANGRA",
+        "districtLGD": "024",
+        "state": "HIMACHAL PRADESH",
+        "stateLGD": "02",
+        "jsonFile": "HIMACHAL PRADESH.json"
+      },
+      "HAMIRPUR": {
+        "district": "HAMIRPUR",
+        "districtLGD": "028",
+        "state": "HIMACHAL PRADESH",
+        "stateLGD": "02",
+        "jsonFile": "HIMACHAL PRADESH.json"
+      },
+      "UNA": {
+        "district": "UNA",
+        "districtLGD": "029",
+        "state": "HIMACHAL PRADESH",
+        "stateLGD": "02",
+        "jsonFile": "HIMACHAL PRADESH.json"
+      },
+      "LAHUL & SPITI": {
+        "district": "LAHUL & SPITI",
+        "districtLGD": "025",
+        "state": "HIMACHAL PRADESH",
+        "stateLGD": "02",
+        "jsonFile": "HIMACHAL PRADESH.json"
+      }
+    },
+    "JAMMU AND KASHMIR": {
+      "MIRPUR": {
+        "district": "MIRPUR",
+        "districtLGD": "NOT AVAILABLE",
+        "state": "JAMMU AND KASHMIR",
+        "stateLGD": "01",
+        "jsonFile": "JAMMU AND KASHMIR.json"
+      },
+      "MUZAFFARABAD": {
+        "district": "MUZAFFARABAD",
+        "districtLGD": "NOT AVAILABLE",
+        "state": "JAMMU AND KASHMIR",
+        "stateLGD": "01",
+        "jsonFile": "JAMMU AND KASHMIR.json"
+      },
+      "PUNCH": {
+        "district": "PUNCH",
+        "districtLGD": "005",
+        "state": "JAMMU AND KASHMIR",
+        "stateLGD": "01",
+        "jsonFile": "JAMMU AND KASHMIR.json"
+      },
+      "ANANTNAG": {
+        "district": "ANANTNAG",
+        "districtLGD": "014",
+        "state": "JAMMU AND KASHMIR",
+        "stateLGD": "01",
+        "jsonFile": "JAMMU AND KASHMIR.json"
+      },
+      "BARAMULA": {
+        "district": "BARAMULA",
+        "districtLGD": "008",
+        "state": "JAMMU AND KASHMIR",
+        "stateLGD": "01",
+        "jsonFile": "JAMMU AND KASHMIR.json"
+      },
+      "KATHUA": {
+        "district": "KATHUA",
+        "districtLGD": "007",
+        "state": "JAMMU AND KASHMIR",
+        "stateLGD": "01",
+        "jsonFile": "JAMMU AND KASHMIR.json"
+      },
+      "UDHAMPUR": {
+        "district": "UDHAMPUR",
+        "districtLGD": "019",
+        "state": "JAMMU AND KASHMIR",
+        "stateLGD": "01",
+        "jsonFile": "JAMMU AND KASHMIR.json"
+      },
+      "BADGAM": {
+        "district": "BADGAM",
+        "districtLGD": "002",
+        "state": "JAMMU AND KASHMIR",
+        "stateLGD": "01",
+        "jsonFile": "JAMMU AND KASHMIR.json"
+      },
+      "BANDIPURA": {
+        "district": "BANDIPURA",
+        "districtLGD": "009",
+        "state": "JAMMU AND KASHMIR",
+        "stateLGD": "01",
+        "jsonFile": "JAMMU AND KASHMIR.json"
+      },
+      "GANDERBAL": {
+        "district": "GANDERBAL",
+        "districtLGD": "011",
+        "state": "JAMMU AND KASHMIR",
+        "stateLGD": "01",
+        "jsonFile": "JAMMU AND KASHMIR.json"
+      },
+      "KULGAM": {
+        "district": "KULGAM",
+        "districtLGD": "015",
+        "state": "JAMMU AND KASHMIR",
+        "stateLGD": "01",
+        "jsonFile": "JAMMU AND KASHMIR.json"
+      },
+      "KUPWARA": {
+        "district": "KUPWARA",
+        "districtLGD": "001",
+        "state": "JAMMU AND KASHMIR",
+        "stateLGD": "01",
+        "jsonFile": "JAMMU AND KASHMIR.json"
+      },
+      "PULWAMA": {
+        "district": "PULWAMA",
+        "districtLGD": "012",
+        "state": "JAMMU AND KASHMIR",
+        "stateLGD": "01",
+        "jsonFile": "JAMMU AND KASHMIR.json"
+      },
+      "RAJAURI": {
+        "district": "RAJAURI",
+        "districtLGD": "006",
+        "state": "JAMMU AND KASHMIR",
+        "stateLGD": "01",
+        "jsonFile": "JAMMU AND KASHMIR.json"
+      },
+      "RAMBAN": {
+        "district": "RAMBAN",
+        "districtLGD": "017",
+        "state": "JAMMU AND KASHMIR",
+        "stateLGD": "01",
+        "jsonFile": "JAMMU AND KASHMIR.json"
+      },
+      "RIASI": {
+        "district": "RIASI",
+        "districtLGD": "020",
+        "state": "JAMMU AND KASHMIR",
+        "stateLGD": "01",
+        "jsonFile": "JAMMU AND KASHMIR.json"
+      },
+      "SHUPIYAN": {
+        "district": "SHUPIYAN",
+        "districtLGD": "013",
+        "state": "JAMMU AND KASHMIR",
+        "stateLGD": "01",
+        "jsonFile": "JAMMU AND KASHMIR.json"
+      },
+      "SRINAGAR": {
+        "district": "SRINAGAR",
+        "districtLGD": "010",
+        "state": "JAMMU AND KASHMIR",
+        "stateLGD": "01",
+        "jsonFile": "JAMMU AND KASHMIR.json"
+      },
+      "KISHTWAR": {
+        "district": "KISHTWAR",
+        "districtLGD": "018",
+        "state": "JAMMU AND KASHMIR",
+        "stateLGD": "01",
+        "jsonFile": "JAMMU AND KASHMIR.json"
+      },
+      "DODA": {
+        "district": "DODA",
+        "districtLGD": "016",
+        "state": "JAMMU AND KASHMIR",
+        "stateLGD": "01",
+        "jsonFile": "JAMMU AND KASHMIR.json"
+      },
+      "SAMBA": {
+        "district": "SAMBA",
+        "districtLGD": "022",
+        "state": "JAMMU AND KASHMIR",
+        "stateLGD": "01",
+        "jsonFile": "JAMMU AND KASHMIR.json"
+      },
+      "JAMMU": {
+        "district": "JAMMU",
+        "districtLGD": "021",
+        "state": "JAMMU AND KASHMIR",
+        "stateLGD": "01",
+        "jsonFile": "JAMMU AND KASHMIR.json"
+      }
+    },
+    "JHARKHAND": {
+      "BOKARO": {
+        "district": "BOKARO",
+        "districtLGD": "355",
+        "state": "JHARKHAND",
+        "stateLGD": "20",
+        "jsonFile": "JHARKHAND.json"
+      },
+      "CHATRA": {
+        "district": "CHATRA",
+        "districtLGD": "347",
+        "state": "JHARKHAND",
+        "stateLGD": "20",
+        "jsonFile": "JHARKHAND.json"
+      },
+      "DEOGHAR": {
+        "district": "DEOGHAR",
+        "districtLGD": "350",
+        "state": "JHARKHAND",
+        "stateLGD": "20",
+        "jsonFile": "JHARKHAND.json"
+      },
+      "DHANBAD": {
+        "district": "DHANBAD",
+        "districtLGD": "354",
+        "state": "JHARKHAND",
+        "stateLGD": "20",
+        "jsonFile": "JHARKHAND.json"
+      },
+      "DUMKA": {
+        "district": "DUMKA",
+        "districtLGD": "362",
+        "state": "JHARKHAND",
+        "stateLGD": "20",
+        "jsonFile": "JHARKHAND.json"
+      },
+      "EAST SINGHBHUM": {
+        "district": "EAST SINGHBHUM",
+        "districtLGD": "357",
+        "state": "JHARKHAND",
+        "stateLGD": "20",
+        "jsonFile": "JHARKHAND.json"
+      },
+      "GARHWA": {
+        "district": "GARHWA",
+        "districtLGD": "346",
+        "state": "JHARKHAND",
+        "stateLGD": "20",
+        "jsonFile": "JHARKHAND.json"
+      },
+      "GIRIDIH": {
+        "district": "GIRIDIH",
+        "districtLGD": "349",
+        "state": "JHARKHAND",
+        "stateLGD": "20",
+        "jsonFile": "JHARKHAND.json"
+      },
+      "GODDA": {
+        "district": "GODDA",
+        "districtLGD": "351",
+        "state": "JHARKHAND",
+        "stateLGD": "20",
+        "jsonFile": "JHARKHAND.json"
+      },
+      "GUMLA": {
+        "district": "GUMLA",
+        "districtLGD": "366",
+        "state": "JHARKHAND",
+        "stateLGD": "20",
+        "jsonFile": "JHARKHAND.json"
+      },
+      "HAZARIBAGH": {
+        "district": "HAZARIBAGH",
+        "districtLGD": "360",
+        "state": "JHARKHAND",
+        "stateLGD": "20",
+        "jsonFile": "JHARKHAND.json"
+      },
+      "JAMTARA": {
+        "district": "JAMTARA",
+        "districtLGD": "363",
+        "state": "JHARKHAND",
+        "stateLGD": "20",
+        "jsonFile": "JHARKHAND.json"
+      },
+      "KHUNTI": {
+        "district": "KHUNTI",
+        "districtLGD": "365",
+        "state": "JHARKHAND",
+        "stateLGD": "20",
+        "jsonFile": "JHARKHAND.json"
+      },
+      "KODERMA": {
+        "district": "KODERMA",
+        "districtLGD": "348",
+        "state": "JHARKHAND",
+        "stateLGD": "20",
+        "jsonFile": "JHARKHAND.json"
+      },
+      "LATEHAR": {
+        "district": "LATEHAR",
+        "districtLGD": "359",
+        "state": "JHARKHAND",
+        "stateLGD": "20",
+        "jsonFile": "JHARKHAND.json"
+      },
+      "LOHARDAGA": {
+        "district": "LOHARDAGA",
+        "districtLGD": "356",
+        "state": "JHARKHAND",
+        "stateLGD": "20",
+        "jsonFile": "JHARKHAND.json"
+      },
+      "PAKUR": {
+        "district": "PAKUR",
+        "districtLGD": "353",
+        "state": "JHARKHAND",
+        "stateLGD": "20",
+        "jsonFile": "JHARKHAND.json"
+      },
+      "PALAMU": {
+        "district": "PALAMU",
+        "districtLGD": "358",
+        "state": "JHARKHAND",
+        "stateLGD": "20",
+        "jsonFile": "JHARKHAND.json"
+      },
+      "RAMGARH": {
+        "district": "RAMGARH",
+        "districtLGD": "361",
+        "state": "JHARKHAND",
+        "stateLGD": "20",
+        "jsonFile": "JHARKHAND.json"
+      },
+      "RANCHI": {
+        "district": "RANCHI",
+        "districtLGD": "364",
+        "state": "JHARKHAND",
+        "stateLGD": "20",
+        "jsonFile": "JHARKHAND.json"
+      },
+      "SAHIBGANJ": {
+        "district": "SAHIBGANJ",
+        "districtLGD": "352",
+        "state": "JHARKHAND",
+        "stateLGD": "20",
+        "jsonFile": "JHARKHAND.json"
+      },
+      "SARAIKELA-KHARSAWAN": {
+        "district": "SARAIKELA-KHARSAWAN",
+        "districtLGD": "369",
+        "state": "JHARKHAND",
+        "stateLGD": "20",
+        "jsonFile": "JHARKHAND.json"
+      },
+      "SIMDEGA": {
+        "district": "SIMDEGA",
+        "districtLGD": "367",
+        "state": "JHARKHAND",
+        "stateLGD": "20",
+        "jsonFile": "JHARKHAND.json"
+      },
+      "WEST SINGHBHUM": {
+        "district": "WEST SINGHBHUM",
+        "districtLGD": "368",
+        "state": "JHARKHAND",
+        "stateLGD": "20",
+        "jsonFile": "JHARKHAND.json"
+      }
+    },
+    "KARNATAKA": {
+      "BAGALKOT": {
+        "district": "BAGALKOT",
+        "districtLGD": "556",
+        "state": "KARNATAKA",
+        "stateLGD": "29",
+        "jsonFile": "KARNATAKA.json"
+      },
+      "BENGALURU (RURAL)": {
+        "district": "BENGALURU (RURAL)",
+        "districtLGD": "583",
+        "state": "KARNATAKA",
+        "stateLGD": "29",
+        "jsonFile": "KARNATAKA.json"
+      },
+      "BELAGAVI": {
+        "district": "BELAGAVI",
+        "districtLGD": "555",
+        "state": "KARNATAKA",
+        "stateLGD": "29",
+        "jsonFile": "KARNATAKA.json"
+      },
+      "CHIKKAMAGALURU": {
+        "district": "CHIKKAMAGALURU",
+        "districtLGD": "570",
+        "state": "KARNATAKA",
+        "stateLGD": "29",
+        "jsonFile": "KARNATAKA.json"
+      },
+      "BALLARI": {
+        "district": "BALLARI",
+        "districtLGD": "565",
+        "state": "KARNATAKA",
+        "stateLGD": "29",
+        "jsonFile": "KARNATAKA.json"
+      },
+      "CHAMARAJANAGARA": {
+        "district": "CHAMARAJANAGARA",
+        "districtLGD": "578",
+        "state": "KARNATAKA",
+        "stateLGD": "29",
+        "jsonFile": "KARNATAKA.json"
+      },
+      "CHITRADURGA": {
+        "district": "CHITRADURGA",
+        "districtLGD": "566",
+        "state": "KARNATAKA",
+        "stateLGD": "29",
+        "jsonFile": "KARNATAKA.json"
+      },
+      "KOPPAL": {
+        "district": "KOPPAL",
+        "districtLGD": "560",
+        "state": "KARNATAKA",
+        "stateLGD": "29",
+        "jsonFile": "KARNATAKA.json"
+      },
+      "VIJAYANAGARA": {
+        "district": "VIJAYANAGARA",
+        "districtLGD": "761",
+        "state": "KARNATAKA",
+        "stateLGD": "29",
+        "jsonFile": "KARNATAKA.json"
+      },
+      "RAICHUR": {
+        "district": "RAICHUR",
+        "districtLGD": "559",
+        "state": "KARNATAKA",
+        "stateLGD": "29",
+        "jsonFile": "KARNATAKA.json"
+      },
+      "CHIKKABALLAPURA": {
+        "district": "CHIKKABALLAPURA",
+        "districtLGD": "582",
+        "state": "KARNATAKA",
+        "stateLGD": "29",
+        "jsonFile": "KARNATAKA.json"
+      },
+      "DAVANGERE": {
+        "district": "DAVANGERE",
+        "districtLGD": "567",
+        "state": "KARNATAKA",
+        "stateLGD": "29",
+        "jsonFile": "KARNATAKA.json"
+      },
+      "DHARWAD": {
+        "district": "DHARWAD",
+        "districtLGD": "562",
+        "state": "KARNATAKA",
+        "stateLGD": "29",
+        "jsonFile": "KARNATAKA.json"
+      },
+      "GADAG": {
+        "district": "GADAG",
+        "districtLGD": "561",
+        "state": "KARNATAKA",
+        "stateLGD": "29",
+        "jsonFile": "KARNATAKA.json"
+      },
+      "HAVERI": {
+        "district": "HAVERI",
+        "districtLGD": "564",
+        "state": "KARNATAKA",
+        "stateLGD": "29",
+        "jsonFile": "KARNATAKA.json"
+      },
+      "HASSAN": {
+        "district": "HASSAN",
+        "districtLGD": "574",
+        "state": "KARNATAKA",
+        "stateLGD": "29",
+        "jsonFile": "KARNATAKA.json"
+      },
+      "KALABURAGI": {
+        "district": "KALABURAGI",
+        "districtLGD": "579",
+        "state": "KARNATAKA",
+        "stateLGD": "29",
+        "jsonFile": "KARNATAKA.json"
+      },
+      "BENGALURU (URBAN)": {
+        "district": "BENGALURU (URBAN)",
+        "districtLGD": "572",
+        "state": "KARNATAKA",
+        "stateLGD": "29",
+        "jsonFile": "KARNATAKA.json"
+      },
+      "KOLAR": {
+        "district": "KOLAR",
+        "districtLGD": "581",
+        "state": "KARNATAKA",
+        "stateLGD": "29",
+        "jsonFile": "KARNATAKA.json"
+      },
+      "MANDYA": {
+        "district": "MANDYA",
+        "districtLGD": "573",
+        "state": "KARNATAKA",
+        "stateLGD": "29",
+        "jsonFile": "KARNATAKA.json"
+      },
+      "MYSURU": {
+        "district": "MYSURU",
+        "districtLGD": "577",
+        "state": "KARNATAKA",
+        "stateLGD": "29",
+        "jsonFile": "KARNATAKA.json"
+      },
+      "SHIVAMOGGA": {
+        "district": "SHIVAMOGGA",
+        "districtLGD": "568",
+        "state": "KARNATAKA",
+        "stateLGD": "29",
+        "jsonFile": "KARNATAKA.json"
+      },
+      "DAKSHINA KANNADA": {
+        "district": "DAKSHINA KANNADA",
+        "districtLGD": "575",
+        "state": "KARNATAKA",
+        "stateLGD": "29",
+        "jsonFile": "KARNATAKA.json"
+      },
+      "UTTARA KANNADA": {
+        "district": "UTTARA KANNADA",
+        "districtLGD": "563",
+        "state": "KARNATAKA",
+        "stateLGD": "29",
+        "jsonFile": "KARNATAKA.json"
+      },
+      "VIJAYAPURA": {
+        "district": "VIJAYAPURA",
+        "districtLGD": "557",
+        "state": "KARNATAKA",
+        "stateLGD": "29",
+        "jsonFile": "KARNATAKA.json"
+      },
+      "YADGIR": {
+        "district": "YADGIR",
+        "districtLGD": "580",
+        "state": "KARNATAKA",
+        "stateLGD": "29",
+        "jsonFile": "KARNATAKA.json"
+      },
+      "RAMANAGARA": {
+        "district": "RAMANAGARA",
+        "districtLGD": "584",
+        "state": "KARNATAKA",
+        "stateLGD": "29",
+        "jsonFile": "KARNATAKA.json"
+      },
+      "UDUPI": {
+        "district": "UDUPI",
+        "districtLGD": "569",
+        "state": "KARNATAKA",
+        "stateLGD": "29",
+        "jsonFile": "KARNATAKA.json"
+      },
+      "TUMAKURU": {
+        "district": "TUMAKURU",
+        "districtLGD": "571",
+        "state": "KARNATAKA",
+        "stateLGD": "29",
+        "jsonFile": "KARNATAKA.json"
+      },
+      "KODAGU": {
+        "district": "KODAGU",
+        "districtLGD": "576",
+        "state": "KARNATAKA",
+        "stateLGD": "29",
+        "jsonFile": "KARNATAKA.json"
+      },
+      "BIDAR": {
+        "district": "BIDAR",
+        "districtLGD": "558",
+        "state": "KARNATAKA",
+        "stateLGD": "29",
+        "jsonFile": "KARNATAKA.json"
+      }
+    },
+    "KERALA": {
+      "PALAKKAD": {
+        "district": "PALAKKAD",
+        "districtLGD": "593",
+        "state": "KERALA",
+        "stateLGD": "32",
+        "jsonFile": "KERALA.json"
+      },
+      "ALAPPUZHA": {
+        "district": "ALAPPUZHA",
+        "districtLGD": "598",
+        "state": "KERALA",
+        "stateLGD": "32",
+        "jsonFile": "KERALA.json"
+      },
+      "KOTTAYAM": {
+        "district": "KOTTAYAM",
+        "districtLGD": "597",
+        "state": "KERALA",
+        "stateLGD": "32",
+        "jsonFile": "KERALA.json"
+      },
+      "KOLLAM": {
+        "district": "KOLLAM",
+        "districtLGD": "600",
+        "state": "KERALA",
+        "stateLGD": "32",
+        "jsonFile": "KERALA.json"
+      },
+      "KOZHIKODE": {
+        "district": "KOZHIKODE",
+        "districtLGD": "591",
+        "state": "KERALA",
+        "stateLGD": "32",
+        "jsonFile": "KERALA.json"
+      },
+      "KASARAGOD": {
+        "district": "KASARAGOD",
+        "districtLGD": "588",
+        "state": "KERALA",
+        "stateLGD": "32",
+        "jsonFile": "KERALA.json"
+      },
+      "MALAPPURAM": {
+        "district": "MALAPPURAM",
+        "districtLGD": "592",
+        "state": "KERALA",
+        "stateLGD": "32",
+        "jsonFile": "KERALA.json"
+      },
+      "WAYANAD": {
+        "district": "WAYANAD",
+        "districtLGD": "590",
+        "state": "KERALA",
+        "stateLGD": "32",
+        "jsonFile": "KERALA.json"
+      },
+      "PATHANAMTHITTA": {
+        "district": "PATHANAMTHITTA",
+        "districtLGD": "599",
+        "state": "KERALA",
+        "stateLGD": "32",
+        "jsonFile": "KERALA.json"
+      },
+      "IDUKKI": {
+        "district": "IDUKKI",
+        "districtLGD": "596",
+        "state": "KERALA",
+        "stateLGD": "32",
+        "jsonFile": "KERALA.json"
+      },
+      "THRISSUR": {
+        "district": "THRISSUR",
+        "districtLGD": "594",
+        "state": "KERALA",
+        "stateLGD": "32",
+        "jsonFile": "KERALA.json"
+      },
+      "ERNAKULAM": {
+        "district": "ERNAKULAM",
+        "districtLGD": "595",
+        "state": "KERALA",
+        "stateLGD": "32",
+        "jsonFile": "KERALA.json"
+      },
+      "THIRUVANANTHAPURAM": {
+        "district": "THIRUVANANTHAPURAM",
+        "districtLGD": "601",
+        "state": "KERALA",
+        "stateLGD": "32",
+        "jsonFile": "KERALA.json"
+      },
+      "KANNUR": {
+        "district": "KANNUR",
+        "districtLGD": "589",
+        "state": "KERALA",
+        "stateLGD": "32",
+        "jsonFile": "KERALA.json"
+      }
+    },
+    "LADAKH": {
+      "LEH": {
+        "district": "LEH",
+        "districtLGD": "003",
+        "state": "LADAKH",
+        "stateLGD": "37",
+        "jsonFile": "LADAKH.json"
+      },
+      "KARGIL": {
+        "district": "KARGIL",
+        "districtLGD": "004",
+        "state": "LADAKH",
+        "stateLGD": "37",
+        "jsonFile": "LADAKH.json"
+      }
+    },
+    "LAKSHADWEEP": {
+      "LAKSHADWEEP": {
+        "district": "LAKSHADWEEP",
+        "districtLGD": "587",
+        "state": "LAKSHADWEEP",
+        "stateLGD": "31",
+        "jsonFile": "LAKSHADWEEP.json"
+      }
+    },
+    "MADHYA PRADESH": {
+      "AGAR MALWA": {
+        "district": "AGAR MALWA",
+        "districtLGD": "735",
+        "state": "MADHYA PRADESH",
+        "stateLGD": "23",
+        "jsonFile": "MADHYA PRADESH.json"
+      },
+      "ALIRAJPUR": {
+        "district": "ALIRAJPUR",
+        "districtLGD": "465",
+        "state": "MADHYA PRADESH",
+        "stateLGD": "23",
+        "jsonFile": "MADHYA PRADESH.json"
+      },
+      "ANUPPUR": {
+        "district": "ANUPPUR",
+        "districtLGD": "461",
+        "state": "MADHYA PRADESH",
+        "stateLGD": "23",
+        "jsonFile": "MADHYA PRADESH.json"
+      },
+      "ASHOKNAGAR": {
+        "district": "ASHOKNAGAR",
+        "districtLGD": "459",
+        "state": "MADHYA PRADESH",
+        "stateLGD": "23",
+        "jsonFile": "MADHYA PRADESH.json"
+      },
+      "BALAGHAT": {
+        "district": "BALAGHAT",
+        "districtLGD": "457",
+        "state": "MADHYA PRADESH",
+        "stateLGD": "23",
+        "jsonFile": "MADHYA PRADESH.json"
+      },
+      "BARWANI": {
+        "district": "BARWANI",
+        "districtLGD": "441",
+        "state": "MADHYA PRADESH",
+        "stateLGD": "23",
+        "jsonFile": "MADHYA PRADESH.json"
+      },
+      "BETUL": {
+        "district": "BETUL",
+        "districtLGD": "447",
+        "state": "MADHYA PRADESH",
+        "stateLGD": "23",
+        "jsonFile": "MADHYA PRADESH.json"
+      },
+      "BHIND": {
+        "district": "BHIND",
+        "districtLGD": "420",
+        "state": "MADHYA PRADESH",
+        "stateLGD": "23",
+        "jsonFile": "MADHYA PRADESH.json"
+      },
+      "BHOPAL": {
+        "district": "BHOPAL",
+        "districtLGD": "444",
+        "state": "MADHYA PRADESH",
+        "stateLGD": "23",
+        "jsonFile": "MADHYA PRADESH.json"
+      },
+      "BURHANPUR": {
+        "district": "BURHANPUR",
+        "districtLGD": "467",
+        "state": "MADHYA PRADESH",
+        "stateLGD": "23",
+        "jsonFile": "MADHYA PRADESH.json"
+      },
+      "CHHATARPUR": {
+        "district": "CHHATARPUR",
+        "districtLGD": "425",
+        "state": "MADHYA PRADESH",
+        "stateLGD": "23",
+        "jsonFile": "MADHYA PRADESH.json"
+      },
+      "CHHINDWARA": {
+        "district": "CHHINDWARA",
+        "districtLGD": "455",
+        "state": "MADHYA PRADESH",
+        "stateLGD": "23",
+        "jsonFile": "MADHYA PRADESH.json"
+      },
+      "DAMOH": {
+        "district": "DAMOH",
+        "districtLGD": "428",
+        "state": "MADHYA PRADESH",
+        "stateLGD": "23",
+        "jsonFile": "MADHYA PRADESH.json"
+      },
+      "DATIA": {
+        "district": "DATIA",
+        "districtLGD": "422",
+        "state": "MADHYA PRADESH",
+        "stateLGD": "23",
+        "jsonFile": "MADHYA PRADESH.json"
+      },
+      "DEWAS": {
+        "district": "DEWAS",
+        "districtLGD": "437",
+        "state": "MADHYA PRADESH",
+        "stateLGD": "23",
+        "jsonFile": "MADHYA PRADESH.json"
+      },
+      "DHAR": {
+        "district": "DHAR",
+        "districtLGD": "438",
+        "state": "MADHYA PRADESH",
+        "stateLGD": "23",
+        "jsonFile": "MADHYA PRADESH.json"
+      },
+      "DINDORI": {
+        "district": "DINDORI",
+        "districtLGD": "453",
+        "state": "MADHYA PRADESH",
+        "stateLGD": "23",
+        "jsonFile": "MADHYA PRADESH.json"
+      },
+      "GUNA": {
+        "district": "GUNA",
+        "districtLGD": "458",
+        "state": "MADHYA PRADESH",
+        "stateLGD": "23",
+        "jsonFile": "MADHYA PRADESH.json"
+      },
+      "GWALIOR": {
+        "district": "GWALIOR",
+        "districtLGD": "421",
+        "state": "MADHYA PRADESH",
+        "stateLGD": "23",
+        "jsonFile": "MADHYA PRADESH.json"
+      },
+      "HARDA": {
+        "district": "HARDA",
+        "districtLGD": "448",
+        "state": "MADHYA PRADESH",
+        "stateLGD": "23",
+        "jsonFile": "MADHYA PRADESH.json"
+      },
+      "INDORE": {
+        "district": "INDORE",
+        "districtLGD": "439",
+        "state": "MADHYA PRADESH",
+        "stateLGD": "23",
+        "jsonFile": "MADHYA PRADESH.json"
+      },
+      "JABALPUR": {
+        "district": "JABALPUR",
+        "districtLGD": "451",
+        "state": "MADHYA PRADESH",
+        "stateLGD": "23",
+        "jsonFile": "MADHYA PRADESH.json"
+      },
+      "JHABUA": {
+        "district": "JHABUA",
+        "districtLGD": "464",
+        "state": "MADHYA PRADESH",
+        "stateLGD": "23",
+        "jsonFile": "MADHYA PRADESH.json"
+      },
+      "KHANDWA": {
+        "district": "KHANDWA",
+        "districtLGD": "466",
+        "state": "MADHYA PRADESH",
+        "stateLGD": "23",
+        "jsonFile": "MADHYA PRADESH.json"
+      },
+      "KHARGONE": {
+        "district": "KHARGONE",
+        "districtLGD": "440",
+        "state": "MADHYA PRADESH",
+        "stateLGD": "23",
+        "jsonFile": "MADHYA PRADESH.json"
+      },
+      "MAIHAR": {
+        "district": "MAIHAR",
+        "districtLGD": "768",
+        "state": "MADHYA PRADESH",
+        "stateLGD": "23",
+        "jsonFile": "MADHYA PRADESH.json"
+      },
+      "MANDLA": {
+        "district": "MANDLA",
+        "districtLGD": "454",
+        "state": "MADHYA PRADESH",
+        "stateLGD": "23",
+        "jsonFile": "MADHYA PRADESH.json"
+      },
+      "MANDSAUR": {
+        "district": "MANDSAUR",
+        "districtLGD": "433",
+        "state": "MADHYA PRADESH",
+        "stateLGD": "23",
+        "jsonFile": "MADHYA PRADESH.json"
+      },
+      "MAUGANJ": {
+        "district": "MAUGANJ",
+        "districtLGD": "767",
+        "state": "MADHYA PRADESH",
+        "stateLGD": "23",
+        "jsonFile": "MADHYA PRADESH.json"
+      },
+      "MORENA": {
+        "district": "MORENA",
+        "districtLGD": "419",
+        "state": "MADHYA PRADESH",
+        "stateLGD": "23",
+        "jsonFile": "MADHYA PRADESH.json"
+      },
+      "NARMADAPURAM": {
+        "district": "NARMADAPURAM",
+        "districtLGD": "449",
+        "state": "MADHYA PRADESH",
+        "stateLGD": "23",
+        "jsonFile": "MADHYA PRADESH.json"
+      },
+      "NARSIMHAPUR": {
+        "district": "NARSIMHAPUR",
+        "districtLGD": "452",
+        "state": "MADHYA PRADESH",
+        "stateLGD": "23",
+        "jsonFile": "MADHYA PRADESH.json"
+      },
+      "NEEMUCH": {
+        "district": "NEEMUCH",
+        "districtLGD": "432",
+        "state": "MADHYA PRADESH",
+        "stateLGD": "23",
+        "jsonFile": "MADHYA PRADESH.json"
+      },
+      "NIWARI": {
+        "district": "NIWARI",
+        "districtLGD": "753",
+        "state": "MADHYA PRADESH",
+        "stateLGD": "23",
+        "jsonFile": "MADHYA PRADESH.json"
+      },
+      "PANDHURNA": {
+        "district": "PANDHURNA",
+        "districtLGD": "769",
+        "state": "MADHYA PRADESH",
+        "stateLGD": "23",
+        "jsonFile": "MADHYA PRADESH.json"
+      },
+      "PANNA": {
+        "district": "PANNA",
+        "districtLGD": "426",
+        "state": "MADHYA PRADESH",
+        "stateLGD": "23",
+        "jsonFile": "MADHYA PRADESH.json"
+      },
+      "RAISEN": {
+        "district": "RAISEN",
+        "districtLGD": "446",
+        "state": "MADHYA PRADESH",
+        "stateLGD": "23",
+        "jsonFile": "MADHYA PRADESH.json"
+      },
+      "RAJGARH": {
+        "district": "RAJGARH",
+        "districtLGD": "442",
+        "state": "MADHYA PRADESH",
+        "stateLGD": "23",
+        "jsonFile": "MADHYA PRADESH.json"
+      },
+      "RATLAM": {
+        "district": "RATLAM",
+        "districtLGD": "434",
+        "state": "MADHYA PRADESH",
+        "stateLGD": "23",
+        "jsonFile": "MADHYA PRADESH.json"
+      },
+      "REWA": {
+        "district": "REWA",
+        "districtLGD": "430",
+        "state": "MADHYA PRADESH",
+        "stateLGD": "23",
+        "jsonFile": "MADHYA PRADESH.json"
+      },
+      "SAGAR": {
+        "district": "SAGAR",
+        "districtLGD": "427",
+        "state": "MADHYA PRADESH",
+        "stateLGD": "23",
+        "jsonFile": "MADHYA PRADESH.json"
+      },
+      "SATNA": {
+        "district": "SATNA",
+        "districtLGD": "429",
+        "state": "MADHYA PRADESH",
+        "stateLGD": "23",
+        "jsonFile": "MADHYA PRADESH.json"
+      },
+      "SEHORE": {
+        "district": "SEHORE",
+        "districtLGD": "445",
+        "state": "MADHYA PRADESH",
+        "stateLGD": "23",
+        "jsonFile": "MADHYA PRADESH.json"
+      },
+      "SEONI": {
+        "district": "SEONI",
+        "districtLGD": "456",
+        "state": "MADHYA PRADESH",
+        "stateLGD": "23",
+        "jsonFile": "MADHYA PRADESH.json"
+      },
+      "SHAHDOL": {
+        "district": "SHAHDOL",
+        "districtLGD": "460",
+        "state": "MADHYA PRADESH",
+        "stateLGD": "23",
+        "jsonFile": "MADHYA PRADESH.json"
+      },
+      "SHAJAPUR": {
+        "district": "SHAJAPUR",
+        "districtLGD": "436",
+        "state": "MADHYA PRADESH",
+        "stateLGD": "23",
+        "jsonFile": "MADHYA PRADESH.json"
+      },
+      "SHEOPUR": {
+        "district": "SHEOPUR",
+        "districtLGD": "418",
+        "state": "MADHYA PRADESH",
+        "stateLGD": "23",
+        "jsonFile": "MADHYA PRADESH.json"
+      },
+      "SHIVPURI": {
+        "district": "SHIVPURI",
+        "districtLGD": "423",
+        "state": "MADHYA PRADESH",
+        "stateLGD": "23",
+        "jsonFile": "MADHYA PRADESH.json"
+      },
+      "SIDHI": {
+        "district": "SIDHI",
+        "districtLGD": "462",
+        "state": "MADHYA PRADESH",
+        "stateLGD": "23",
+        "jsonFile": "MADHYA PRADESH.json"
+      },
+      "SINGRAULI": {
+        "district": "SINGRAULI",
+        "districtLGD": "463",
+        "state": "MADHYA PRADESH",
+        "stateLGD": "23",
+        "jsonFile": "MADHYA PRADESH.json"
+      },
+      "TIKAMGARH": {
+        "district": "TIKAMGARH",
+        "districtLGD": "424",
+        "state": "MADHYA PRADESH",
+        "stateLGD": "23",
+        "jsonFile": "MADHYA PRADESH.json"
+      },
+      "UJJAIN": {
+        "district": "UJJAIN",
+        "districtLGD": "435",
+        "state": "MADHYA PRADESH",
+        "stateLGD": "23",
+        "jsonFile": "MADHYA PRADESH.json"
+      },
+      "UMARIA": {
+        "district": "UMARIA",
+        "districtLGD": "431",
+        "state": "MADHYA PRADESH",
+        "stateLGD": "23",
+        "jsonFile": "MADHYA PRADESH.json"
+      },
+      "VIDISHA": {
+        "district": "VIDISHA",
+        "districtLGD": "443",
+        "state": "MADHYA PRADESH",
+        "stateLGD": "23",
+        "jsonFile": "MADHYA PRADESH.json"
+      },
+      "KATNI": {
+        "district": "KATNI",
+        "districtLGD": "450",
+        "state": "MADHYA PRADESH",
+        "stateLGD": "23",
+        "jsonFile": "MADHYA PRADESH.json"
+      }
+    },
+    "MAHARASHTRA": {
+      "AHILYANAGAR": {
+        "district": "AHILYANAGAR",
+        "districtLGD": "522",
+        "state": "MAHARASHTRA",
+        "stateLGD": "27",
+        "jsonFile": "MAHARASHTRA.json"
+      },
+      "BEED": {
+        "district": "BEED",
+        "districtLGD": "523",
+        "state": "MAHARASHTRA",
+        "stateLGD": "27",
+        "jsonFile": "MAHARASHTRA.json"
+      },
+      "BHANDARA": {
+        "district": "BHANDARA",
+        "districtLGD": "506",
+        "state": "MAHARASHTRA",
+        "stateLGD": "27",
+        "jsonFile": "MAHARASHTRA.json"
+      },
+      "CHANDRAPUR": {
+        "district": "CHANDRAPUR",
+        "districtLGD": "509",
+        "state": "MAHARASHTRA",
+        "stateLGD": "27",
+        "jsonFile": "MAHARASHTRA.json"
+      },
+      "DHULE": {
+        "district": "DHULE",
+        "districtLGD": "498",
+        "state": "MAHARASHTRA",
+        "stateLGD": "27",
+        "jsonFile": "MAHARASHTRA.json"
+      },
+      "GADCHIROLI": {
+        "district": "GADCHIROLI",
+        "districtLGD": "508",
+        "state": "MAHARASHTRA",
+        "stateLGD": "27",
+        "jsonFile": "MAHARASHTRA.json"
+      },
+      "GONDIA": {
+        "district": "GONDIA",
+        "districtLGD": "507",
+        "state": "MAHARASHTRA",
+        "stateLGD": "27",
+        "jsonFile": "MAHARASHTRA.json"
+      },
+      "HINGOLI": {
+        "district": "HINGOLI",
+        "districtLGD": "512",
+        "state": "MAHARASHTRA",
+        "stateLGD": "27",
+        "jsonFile": "MAHARASHTRA.json"
+      },
+      "JALGAON": {
+        "district": "JALGAON",
+        "districtLGD": "499",
+        "state": "MAHARASHTRA",
+        "stateLGD": "27",
+        "jsonFile": "MAHARASHTRA.json"
+      },
+      "KOLHAPUR": {
+        "district": "KOLHAPUR",
+        "districtLGD": "530",
+        "state": "MAHARASHTRA",
+        "stateLGD": "27",
+        "jsonFile": "MAHARASHTRA.json"
+      },
+      "LATUR": {
+        "district": "LATUR",
+        "districtLGD": "524",
+        "state": "MAHARASHTRA",
+        "stateLGD": "27",
+        "jsonFile": "MAHARASHTRA.json"
+      },
+      "MUMBAI": {
+        "district": "MUMBAI",
+        "districtLGD": "519",
+        "state": "MAHARASHTRA",
+        "stateLGD": "27",
+        "jsonFile": "MAHARASHTRA.json"
+      },
+      "NAGPUR": {
+        "district": "NAGPUR",
+        "districtLGD": "505",
+        "state": "MAHARASHTRA",
+        "stateLGD": "27",
+        "jsonFile": "MAHARASHTRA.json"
+      },
+      "NANDED": {
+        "district": "NANDED",
+        "districtLGD": "511",
+        "state": "MAHARASHTRA",
+        "stateLGD": "27",
+        "jsonFile": "MAHARASHTRA.json"
+      },
+      "NASHIK": {
+        "district": "NASHIK",
+        "districtLGD": "516",
+        "state": "MAHARASHTRA",
+        "stateLGD": "27",
+        "jsonFile": "MAHARASHTRA.json"
+      },
+      "NANDURBAR": {
+        "district": "NANDURBAR",
+        "districtLGD": "497",
+        "state": "MAHARASHTRA",
+        "stateLGD": "27",
+        "jsonFile": "MAHARASHTRA.json"
+      },
+      "PALGHAR": {
+        "district": "PALGHAR",
+        "districtLGD": "681",
+        "state": "MAHARASHTRA",
+        "stateLGD": "27",
+        "jsonFile": "MAHARASHTRA.json"
+      },
+      "PUNE": {
+        "district": "PUNE",
+        "districtLGD": "521",
+        "state": "MAHARASHTRA",
+        "stateLGD": "27",
+        "jsonFile": "MAHARASHTRA.json"
+      },
+      "RAIGAD": {
+        "district": "RAIGAD",
+        "districtLGD": "520",
+        "state": "MAHARASHTRA",
+        "stateLGD": "27",
+        "jsonFile": "MAHARASHTRA.json"
+      },
+      "RATNAGIRI": {
+        "district": "RATNAGIRI",
+        "districtLGD": "528",
+        "state": "MAHARASHTRA",
+        "stateLGD": "27",
+        "jsonFile": "MAHARASHTRA.json"
+      },
+      "SANGLI": {
+        "district": "SANGLI",
+        "districtLGD": "531",
+        "state": "MAHARASHTRA",
+        "stateLGD": "27",
+        "jsonFile": "MAHARASHTRA.json"
+      },
+      "SATARA": {
+        "district": "SATARA",
+        "districtLGD": "527",
+        "state": "MAHARASHTRA",
+        "stateLGD": "27",
+        "jsonFile": "MAHARASHTRA.json"
+      },
+      "SINDHUDURG": {
+        "district": "SINDHUDURG",
+        "districtLGD": "529",
+        "state": "MAHARASHTRA",
+        "stateLGD": "27",
+        "jsonFile": "MAHARASHTRA.json"
+      },
+      "SOLAPUR": {
+        "district": "SOLAPUR",
+        "districtLGD": "526",
+        "state": "MAHARASHTRA",
+        "stateLGD": "27",
+        "jsonFile": "MAHARASHTRA.json"
+      },
+      "MUMBAI SUBURBAN": {
+        "district": "MUMBAI SUBURBAN",
+        "districtLGD": "518",
+        "state": "MAHARASHTRA",
+        "stateLGD": "27",
+        "jsonFile": "MAHARASHTRA.json"
+      },
+      "THANE": {
+        "district": "THANE",
+        "districtLGD": "517",
+        "state": "MAHARASHTRA",
+        "stateLGD": "27",
+        "jsonFile": "MAHARASHTRA.json"
+      },
+      "DHARASHIV": {
+        "district": "DHARASHIV",
+        "districtLGD": "525",
+        "state": "MAHARASHTRA",
+        "stateLGD": "27",
+        "jsonFile": "MAHARASHTRA.json"
+      },
+      "WASHIM": {
+        "district": "WASHIM",
+        "districtLGD": "502",
+        "state": "MAHARASHTRA",
+        "stateLGD": "27",
+        "jsonFile": "MAHARASHTRA.json"
+      },
+      "WARDHA": {
+        "district": "WARDHA",
+        "districtLGD": "504",
+        "state": "MAHARASHTRA",
+        "stateLGD": "27",
+        "jsonFile": "MAHARASHTRA.json"
+      },
+      "YAVATMAL": {
+        "district": "YAVATMAL",
+        "districtLGD": "510",
+        "state": "MAHARASHTRA",
+        "stateLGD": "27",
+        "jsonFile": "MAHARASHTRA.json"
+      },
+      "AKOLA": {
+        "district": "AKOLA",
+        "districtLGD": "501",
+        "state": "MAHARASHTRA",
+        "stateLGD": "27",
+        "jsonFile": "MAHARASHTRA.json"
+      },
+      "AMRAVATI": {
+        "district": "AMRAVATI",
+        "districtLGD": "503",
+        "state": "MAHARASHTRA",
+        "stateLGD": "27",
+        "jsonFile": "MAHARASHTRA.json"
+      },
+      "BULDHANA": {
+        "district": "BULDHANA",
+        "districtLGD": "500",
+        "state": "MAHARASHTRA",
+        "stateLGD": "27",
+        "jsonFile": "MAHARASHTRA.json"
+      },
+      "PARBHANI": {
+        "district": "PARBHANI",
+        "districtLGD": "513",
+        "state": "MAHARASHTRA",
+        "stateLGD": "27",
+        "jsonFile": "MAHARASHTRA.json"
+      },
+      "JALNA": {
+        "district": "JALNA",
+        "districtLGD": "514",
+        "state": "MAHARASHTRA",
+        "stateLGD": "27",
+        "jsonFile": "MAHARASHTRA.json"
+      },
+      "CHHATRAPATI SAMBHAJI NAGAR": {
+        "district": "CHHATRAPATI SAMBHAJI NAGAR",
+        "districtLGD": "515",
+        "state": "MAHARASHTRA",
+        "stateLGD": "27",
+        "jsonFile": "MAHARASHTRA.json"
+      }
+    },
+    "MANIPUR": {
+      "BISHNUPUR": {
+        "district": "BISHNUPUR",
+        "districtLGD": "275",
+        "state": "MANIPUR",
+        "stateLGD": "14",
+        "jsonFile": "MANIPUR.json"
+      },
+      "CHANDEL": {
+        "district": "CHANDEL",
+        "districtLGD": "280",
+        "state": "MANIPUR",
+        "stateLGD": "14",
+        "jsonFile": "MANIPUR.json"
+      },
+      "CHURACHANDPUR": {
+        "district": "CHURACHANDPUR",
+        "districtLGD": "274",
+        "state": "MANIPUR",
+        "stateLGD": "14",
+        "jsonFile": "MANIPUR.json"
+      },
+      "IMPHAL EAST": {
+        "district": "IMPHAL EAST",
+        "districtLGD": "278",
+        "state": "MANIPUR",
+        "stateLGD": "14",
+        "jsonFile": "MANIPUR.json"
+      },
+      "IMPHAL WEST": {
+        "district": "IMPHAL WEST",
+        "districtLGD": "277",
+        "state": "MANIPUR",
+        "stateLGD": "14",
+        "jsonFile": "MANIPUR.json"
+      },
+      "JIRIBAM": {
+        "district": "JIRIBAM",
+        "districtLGD": "658",
+        "state": "MANIPUR",
+        "stateLGD": "14",
+        "jsonFile": "MANIPUR.json"
+      },
+      "KAKCHING": {
+        "district": "KAKCHING",
+        "districtLGD": "651",
+        "state": "MANIPUR",
+        "stateLGD": "14",
+        "jsonFile": "MANIPUR.json"
+      },
+      "KAMJANG": {
+        "district": "KAMJANG",
+        "districtLGD": "670",
+        "state": "MANIPUR",
+        "stateLGD": "14",
+        "jsonFile": "MANIPUR.json"
+      },
+      "KANGPOKPI": {
+        "district": "KANGPOKPI",
+        "districtLGD": "679",
+        "state": "MANIPUR",
+        "stateLGD": "14",
+        "jsonFile": "MANIPUR.json"
+      },
+      "NONEY": {
+        "district": "NONEY",
+        "districtLGD": "659",
+        "state": "MANIPUR",
+        "stateLGD": "14",
+        "jsonFile": "MANIPUR.json"
+      },
+      "PHERZAWL": {
+        "district": "PHERZAWL",
+        "districtLGD": "718",
+        "state": "MANIPUR",
+        "stateLGD": "14",
+        "jsonFile": "MANIPUR.json"
+      },
+      "SENAPATI": {
+        "district": "SENAPATI",
+        "districtLGD": "272",
+        "state": "MANIPUR",
+        "stateLGD": "14",
+        "jsonFile": "MANIPUR.json"
+      },
+      "TAMENGLONG": {
+        "district": "TAMENGLONG",
+        "districtLGD": "273",
+        "state": "MANIPUR",
+        "stateLGD": "14",
+        "jsonFile": "MANIPUR.json"
+      },
+      "TENGNOUPAL": {
+        "district": "TENGNOUPAL",
+        "districtLGD": "667",
+        "state": "MANIPUR",
+        "stateLGD": "14",
+        "jsonFile": "MANIPUR.json"
+      },
+      "THOUBAL": {
+        "district": "THOUBAL",
+        "districtLGD": "276",
+        "state": "MANIPUR",
+        "stateLGD": "14",
+        "jsonFile": "MANIPUR.json"
+      },
+      "UKHRUL": {
+        "district": "UKHRUL",
+        "districtLGD": "279",
+        "state": "MANIPUR",
+        "stateLGD": "14",
+        "jsonFile": "MANIPUR.json"
+      }
+    },
+    "MEGHALAYA": {
+      "EAST GARO HILLS": {
+        "district": "EAST GARO HILLS",
+        "districtLGD": "294",
+        "state": "MEGHALAYA",
+        "stateLGD": "17",
+        "jsonFile": "MEGHALAYA.json"
+      },
+      "EAST JAINTIA HILLS": {
+        "district": "EAST JAINTIA HILLS",
+        "districtLGD": "666",
+        "state": "MEGHALAYA",
+        "stateLGD": "17",
+        "jsonFile": "MEGHALAYA.json"
+      },
+      "EAST KHASI HILLS": {
+        "district": "EAST KHASI HILLS",
+        "districtLGD": "298",
+        "state": "MEGHALAYA",
+        "stateLGD": "17",
+        "jsonFile": "MEGHALAYA.json"
+      },
+      "NORTH GARO HILLS": {
+        "district": "NORTH GARO HILLS",
+        "districtLGD": "674",
+        "state": "MEGHALAYA",
+        "stateLGD": "17",
+        "jsonFile": "MEGHALAYA.json"
+      },
+      "RI-BHOI": {
+        "district": "RI-BHOI",
+        "districtLGD": "297",
+        "state": "MEGHALAYA",
+        "stateLGD": "17",
+        "jsonFile": "MEGHALAYA.json"
+      },
+      "SOUTH GARO HILLS": {
+        "district": "SOUTH GARO HILLS",
+        "districtLGD": "295",
+        "state": "MEGHALAYA",
+        "stateLGD": "17",
+        "jsonFile": "MEGHALAYA.json"
+      },
+      "SOUTH WEST GARO HILLS": {
+        "district": "SOUTH WEST GARO HILLS",
+        "districtLGD": "660",
+        "state": "MEGHALAYA",
+        "stateLGD": "17",
+        "jsonFile": "MEGHALAYA.json"
+      },
+      "WEST GARO HILLS": {
+        "district": "WEST GARO HILLS",
+        "districtLGD": "293",
+        "state": "MEGHALAYA",
+        "stateLGD": "17",
+        "jsonFile": "MEGHALAYA.json"
+      },
+      "WEST JAINTIA HILLS": {
+        "district": "WEST JAINTIA HILLS",
+        "districtLGD": "299",
+        "state": "MEGHALAYA",
+        "stateLGD": "17",
+        "jsonFile": "MEGHALAYA.json"
+      },
+      "SOUTH WEST KHASI HILLS": {
+        "district": "SOUTH WEST KHASI HILLS",
+        "districtLGD": "668",
+        "state": "MEGHALAYA",
+        "stateLGD": "17",
+        "jsonFile": "MEGHALAYA.json"
+      },
+      "EASTERN WEST KHASI HILLS": {
+        "district": "EASTERN WEST KHASI HILLS",
+        "districtLGD": "765",
+        "state": "MEGHALAYA",
+        "stateLGD": "17",
+        "jsonFile": "MEGHALAYA.json"
+      },
+      "WEST KHASI HILLS": {
+        "district": "WEST KHASI HILLS",
+        "districtLGD": "296",
+        "state": "MEGHALAYA",
+        "stateLGD": "17",
+        "jsonFile": "MEGHALAYA.json"
+      }
+    },
+    "MIZORAM": {
+      "CHAMPHAI": {
+        "district": "CHAMPHAI",
+        "districtLGD": "284",
+        "state": "MIZORAM",
+        "stateLGD": "15",
+        "jsonFile": "MIZORAM.json"
+      },
+      "HNAHTHIAL": {
+        "district": "HNAHTHIAL",
+        "districtLGD": "713",
+        "state": "MIZORAM",
+        "stateLGD": "15",
+        "jsonFile": "MIZORAM.json"
+      },
+      "SERCHHIP": {
+        "district": "SERCHHIP",
+        "districtLGD": "285",
+        "state": "MIZORAM",
+        "stateLGD": "15",
+        "jsonFile": "MIZORAM.json"
+      },
+      "LUNGLEI": {
+        "district": "LUNGLEI",
+        "districtLGD": "286",
+        "state": "MIZORAM",
+        "stateLGD": "15",
+        "jsonFile": "MIZORAM.json"
+      },
+      "MAMIT": {
+        "district": "MAMIT",
+        "districtLGD": "281",
+        "state": "MIZORAM",
+        "stateLGD": "15",
+        "jsonFile": "MIZORAM.json"
+      },
+      "KOLASIB": {
+        "district": "KOLASIB",
+        "districtLGD": "282",
+        "state": "MIZORAM",
+        "stateLGD": "15",
+        "jsonFile": "MIZORAM.json"
+      },
+      "AIZAWL": {
+        "district": "AIZAWL",
+        "districtLGD": "283",
+        "state": "MIZORAM",
+        "stateLGD": "15",
+        "jsonFile": "MIZORAM.json"
+      },
+      "SAIHA": {
+        "district": "SAIHA",
+        "districtLGD": "288",
+        "state": "MIZORAM",
+        "stateLGD": "15",
+        "jsonFile": "MIZORAM.json"
+      },
+      "SAITUAL": {
+        "district": "SAITUAL",
+        "districtLGD": "682",
+        "state": "MIZORAM",
+        "stateLGD": "15",
+        "jsonFile": "MIZORAM.json"
+      },
+      "LAWNGTLAI": {
+        "district": "LAWNGTLAI",
+        "districtLGD": "287",
+        "state": "MIZORAM",
+        "stateLGD": "15",
+        "jsonFile": "MIZORAM.json"
+      },
+      "KHAWZAWL": {
+        "district": "KHAWZAWL",
+        "districtLGD": "703",
+        "state": "MIZORAM",
+        "stateLGD": "15",
+        "jsonFile": "MIZORAM.json"
+      }
+    },
+    "NAGALAND": {
+      "MON": {
+        "district": "MON",
+        "districtLGD": "261",
+        "state": "NAGALAND",
+        "stateLGD": "13",
+        "jsonFile": "NAGALAND.json"
+      },
+      "MOKOKCHUNG": {
+        "district": "MOKOKCHUNG",
+        "districtLGD": "262",
+        "state": "NAGALAND",
+        "stateLGD": "13",
+        "jsonFile": "NAGALAND.json"
+      },
+      "WOKHA": {
+        "district": "WOKHA",
+        "districtLGD": "264",
+        "state": "NAGALAND",
+        "stateLGD": "13",
+        "jsonFile": "NAGALAND.json"
+      },
+      "LONGLENG": {
+        "district": "LONGLENG",
+        "districtLGD": "268",
+        "state": "NAGALAND",
+        "stateLGD": "13",
+        "jsonFile": "NAGALAND.json"
+      },
+      "NOKLAK": {
+        "district": "NOKLAK",
+        "districtLGD": "708",
+        "state": "NAGALAND",
+        "stateLGD": "13",
+        "jsonFile": "NAGALAND.json"
+      },
+      "TUENSANG": {
+        "district": "TUENSANG",
+        "districtLGD": "267",
+        "state": "NAGALAND",
+        "stateLGD": "13",
+        "jsonFile": "NAGALAND.json"
+      },
+      "SHAMATOR": {
+        "district": "SHAMATOR",
+        "districtLGD": "712",
+        "state": "NAGALAND",
+        "stateLGD": "13",
+        "jsonFile": "NAGALAND.json"
+      },
+      "ZUNHEBOTO": {
+        "district": "ZUNHEBOTO",
+        "districtLGD": "263",
+        "state": "NAGALAND",
+        "stateLGD": "13",
+        "jsonFile": "NAGALAND.json"
+      },
+      "DIMAPUR": {
+        "district": "DIMAPUR",
+        "districtLGD": "265",
+        "state": "NAGALAND",
+        "stateLGD": "13",
+        "jsonFile": "NAGALAND.json"
+      },
+      "CHUMOUKEDIMA": {
+        "district": "CHUMOUKEDIMA",
+        "districtLGD": "711",
+        "state": "NAGALAND",
+        "stateLGD": "13",
+        "jsonFile": "NAGALAND.json"
+      },
+      "NIULAND": {
+        "district": "NIULAND",
+        "districtLGD": "709",
+        "state": "NAGALAND",
+        "stateLGD": "13",
+        "jsonFile": "NAGALAND.json"
+      },
+      "PEREN": {
+        "district": "PEREN",
+        "districtLGD": "271",
+        "state": "NAGALAND",
+        "stateLGD": "13",
+        "jsonFile": "NAGALAND.json"
+      },
+      "KOHIMA": {
+        "district": "KOHIMA",
+        "districtLGD": "270",
+        "state": "NAGALAND",
+        "stateLGD": "13",
+        "jsonFile": "NAGALAND.json"
+      },
+      "KIPHIRE": {
+        "district": "KIPHIRE",
+        "districtLGD": "269",
+        "state": "NAGALAND",
+        "stateLGD": "13",
+        "jsonFile": "NAGALAND.json"
+      },
+      "PHEK": {
+        "district": "PHEK",
+        "districtLGD": "266",
+        "state": "NAGALAND",
+        "stateLGD": "13",
+        "jsonFile": "NAGALAND.json"
+      },
+      "TSEMINYU": {
+        "district": "TSEMINYU",
+        "districtLGD": "710",
+        "state": "NAGALAND",
+        "stateLGD": "13",
+        "jsonFile": "NAGALAND.json"
+      }
+    },
+    "ODISHA": {
+      "KENDRAPARA": {
+        "district": "KENDRAPARA",
+        "districtLGD": "379",
+        "state": "ODISHA",
+        "stateLGD": "21",
+        "jsonFile": "ODISHA.json"
+      },
+      "BHADRAK": {
+        "district": "BHADRAK",
+        "districtLGD": "378",
+        "state": "ODISHA",
+        "stateLGD": "21",
+        "jsonFile": "ODISHA.json"
+      },
+      "BARGARH": {
+        "district": "BARGARH",
+        "districtLGD": "370",
+        "state": "ODISHA",
+        "stateLGD": "21",
+        "jsonFile": "ODISHA.json"
+      },
+      "KEONJHAR (KENDUJHAR)": {
+        "district": "KEONJHAR (KENDUJHAR)",
+        "districtLGD": "375",
+        "state": "ODISHA",
+        "stateLGD": "21",
+        "jsonFile": "ODISHA.json"
+      },
+      "ANUGUL": {
+        "district": "ANUGUL",
+        "districtLGD": "384",
+        "state": "ODISHA",
+        "stateLGD": "21",
+        "jsonFile": "ODISHA.json"
+      },
+      "BALANGIR": {
+        "district": "BALANGIR",
+        "districtLGD": "393",
+        "state": "ODISHA",
+        "stateLGD": "21",
+        "jsonFile": "ODISHA.json"
+      },
+      "BALASORE": {
+        "district": "BALASORE",
+        "districtLGD": "377",
+        "state": "ODISHA",
+        "stateLGD": "21",
+        "jsonFile": "ODISHA.json"
+      },
+      "DHENKANAL": {
+        "district": "DHENKANAL",
+        "districtLGD": "383",
+        "state": "ODISHA",
+        "stateLGD": "21",
+        "jsonFile": "ODISHA.json"
+      },
+      "JHARSUGUDA": {
+        "district": "JHARSUGUDA",
+        "districtLGD": "371",
+        "state": "ODISHA",
+        "stateLGD": "21",
+        "jsonFile": "ODISHA.json"
+      },
+      "MAYURBHANJ": {
+        "district": "MAYURBHANJ",
+        "districtLGD": "376",
+        "state": "ODISHA",
+        "stateLGD": "21",
+        "jsonFile": "ODISHA.json"
+      },
+      "JAGATSINGHPUR": {
+        "district": "JAGATSINGHPUR",
+        "districtLGD": "380",
+        "state": "ODISHA",
+        "stateLGD": "21",
+        "jsonFile": "ODISHA.json"
+      },
+      "KANDHAMAL": {
+        "district": "KANDHAMAL",
+        "districtLGD": "390",
+        "state": "ODISHA",
+        "stateLGD": "21",
+        "jsonFile": "ODISHA.json"
+      },
+      "CUTTACK": {
+        "district": "CUTTACK",
+        "districtLGD": "381",
+        "state": "ODISHA",
+        "stateLGD": "21",
+        "jsonFile": "ODISHA.json"
+      },
+      "KORAPUT": {
+        "district": "KORAPUT",
+        "districtLGD": "398",
+        "state": "ODISHA",
+        "stateLGD": "21",
+        "jsonFile": "ODISHA.json"
+      },
+      "NABARANGAPUR": {
+        "district": "NABARANGAPUR",
+        "districtLGD": "397",
+        "state": "ODISHA",
+        "stateLGD": "21",
+        "jsonFile": "ODISHA.json"
+      },
+      "PURI": {
+        "district": "PURI",
+        "districtLGD": "387",
+        "state": "ODISHA",
+        "stateLGD": "21",
+        "jsonFile": "ODISHA.json"
+      },
+      "SAMBALPUR": {
+        "district": "SAMBALPUR",
+        "districtLGD": "372",
+        "state": "ODISHA",
+        "stateLGD": "21",
+        "jsonFile": "ODISHA.json"
+      },
+      "GAJAPATI": {
+        "district": "GAJAPATI",
+        "districtLGD": "389",
+        "state": "ODISHA",
+        "stateLGD": "21",
+        "jsonFile": "ODISHA.json"
+      },
+      "GANJAM": {
+        "district": "GANJAM",
+        "districtLGD": "388",
+        "state": "ODISHA",
+        "stateLGD": "21",
+        "jsonFile": "ODISHA.json"
+      },
+      "MALKANGIRI": {
+        "district": "MALKANGIRI",
+        "districtLGD": "399",
+        "state": "ODISHA",
+        "stateLGD": "21",
+        "jsonFile": "ODISHA.json"
+      },
+      "KHORDHA": {
+        "district": "KHORDHA",
+        "districtLGD": "386",
+        "state": "ODISHA",
+        "stateLGD": "21",
+        "jsonFile": "ODISHA.json"
+      },
+      "BOUDH": {
+        "district": "BOUDH",
+        "districtLGD": "391",
+        "state": "ODISHA",
+        "stateLGD": "21",
+        "jsonFile": "ODISHA.json"
+      },
+      "DEOGARH": {
+        "district": "DEOGARH",
+        "districtLGD": "373",
+        "state": "ODISHA",
+        "stateLGD": "21",
+        "jsonFile": "ODISHA.json"
+      },
+      "NUAPARHA": {
+        "district": "NUAPARHA",
+        "districtLGD": "394",
+        "state": "ODISHA",
+        "stateLGD": "21",
+        "jsonFile": "ODISHA.json"
+      },
+      "JAJAPUR": {
+        "district": "JAJAPUR",
+        "districtLGD": "382",
+        "state": "ODISHA",
+        "stateLGD": "21",
+        "jsonFile": "ODISHA.json"
+      },
+      "SUNDARGARH": {
+        "district": "SUNDARGARH",
+        "districtLGD": "374",
+        "state": "ODISHA",
+        "stateLGD": "21",
+        "jsonFile": "ODISHA.json"
+      },
+      "KALAHANDI": {
+        "district": "KALAHANDI",
+        "districtLGD": "395",
+        "state": "ODISHA",
+        "stateLGD": "21",
+        "jsonFile": "ODISHA.json"
+      },
+      "SUBARNAPUR": {
+        "district": "SUBARNAPUR",
+        "districtLGD": "392",
+        "state": "ODISHA",
+        "stateLGD": "21",
+        "jsonFile": "ODISHA.json"
+      },
+      "RAYAGARHA": {
+        "district": "RAYAGARHA",
+        "districtLGD": "396",
+        "state": "ODISHA",
+        "stateLGD": "21",
+        "jsonFile": "ODISHA.json"
+      },
+      "NAYAGARH": {
+        "district": "NAYAGARH",
+        "districtLGD": "385",
+        "state": "ODISHA",
+        "stateLGD": "21",
+        "jsonFile": "ODISHA.json"
+      }
+    },
+    "PUDUCHERRY": {
+      "PUDUCHERRY": {
+        "district": "PUDUCHERRY",
+        "districtLGD": "635",
+        "state": "PUDUCHERRY",
+        "stateLGD": "34",
+        "jsonFile": "PUDUCHERRY.json"
+      },
+      "KARAIKAL": {
+        "district": "KARAIKAL",
+        "districtLGD": "637",
+        "state": "PUDUCHERRY",
+        "stateLGD": "34",
+        "jsonFile": "PUDUCHERRY.json"
+      }
+    },
+    "PUNJAB": {
+      "FIROZPUR": {
+        "district": "FIROZPUR",
+        "districtLGD": "043",
+        "state": "PUNJAB",
+        "stateLGD": "03",
+        "jsonFile": "PUNJAB.json"
+      },
+      "LUDHIANA": {
+        "district": "LUDHIANA",
+        "districtLGD": "041",
+        "state": "PUNJAB",
+        "stateLGD": "03",
+        "jsonFile": "PUNJAB.json"
+      },
+      "RUPNAGAR": {
+        "district": "RUPNAGAR",
+        "districtLGD": "051",
+        "state": "PUNJAB",
+        "stateLGD": "03",
+        "jsonFile": "PUNJAB.json"
+      },
+      "MANSA": {
+        "district": "MANSA",
+        "districtLGD": "047",
+        "state": "PUNJAB",
+        "stateLGD": "03",
+        "jsonFile": "PUNJAB.json"
+      },
+      "SRI MUKTSAR SAHIB": {
+        "district": "SRI MUKTSAR SAHIB",
+        "districtLGD": "044",
+        "state": "PUNJAB",
+        "stateLGD": "03",
+        "jsonFile": "PUNJAB.json"
+      },
+      "SAS NAGAR (SAHIBZADA AJIT SINGH NAGAR)": {
+        "district": "SAS NAGAR (SAHIBZADA AJIT SINGH NAGAR)",
+        "districtLGD": "052",
+        "state": "PUNJAB",
+        "stateLGD": "03",
+        "jsonFile": "PUNJAB.json"
+      },
+      "JALANDHAR": {
+        "district": "JALANDHAR",
+        "districtLGD": "037",
+        "state": "PUNJAB",
+        "stateLGD": "03",
+        "jsonFile": "PUNJAB.json"
+      },
+      "PATHANKOT": {
+        "district": "PATHANKOT",
+        "districtLGD": "678",
+        "state": "PUNJAB",
+        "stateLGD": "03",
+        "jsonFile": "PUNJAB.json"
+      },
+      "FARIDKOT": {
+        "district": "FARIDKOT",
+        "districtLGD": "045",
+        "state": "PUNJAB",
+        "stateLGD": "03",
+        "jsonFile": "PUNJAB.json"
+      },
+      "MOGA": {
+        "district": "MOGA",
+        "districtLGD": "042",
+        "state": "PUNJAB",
+        "stateLGD": "03",
+        "jsonFile": "PUNJAB.json"
+      },
+      "HOSHIARPUR": {
+        "district": "HOSHIARPUR",
+        "districtLGD": "038",
+        "state": "PUNJAB",
+        "stateLGD": "03",
+        "jsonFile": "PUNJAB.json"
+      },
+      "BATHINDA": {
+        "district": "BATHINDA",
+        "districtLGD": "046",
+        "state": "PUNJAB",
+        "stateLGD": "03",
+        "jsonFile": "PUNJAB.json"
+      },
+      "TARN TARAN": {
+        "district": "TARN TARAN",
+        "districtLGD": "050",
+        "state": "PUNJAB",
+        "stateLGD": "03",
+        "jsonFile": "PUNJAB.json"
+      },
+      "FAZILKA": {
+        "district": "FAZILKA",
+        "districtLGD": "673",
+        "state": "PUNJAB",
+        "stateLGD": "03",
+        "jsonFile": "PUNJAB.json"
+      },
+      "PATIALA": {
+        "district": "PATIALA",
+        "districtLGD": "048",
+        "state": "PUNJAB",
+        "stateLGD": "03",
+        "jsonFile": "PUNJAB.json"
+      },
+      "SHAHID BHAGAT SINGH NAGAR": {
+        "district": "SHAHID BHAGAT SINGH NAGAR",
+        "districtLGD": "039",
+        "state": "PUNJAB",
+        "stateLGD": "03",
+        "jsonFile": "PUNJAB.json"
+      },
+      "BARNALA": {
+        "district": "BARNALA",
+        "districtLGD": "054",
+        "state": "PUNJAB",
+        "stateLGD": "03",
+        "jsonFile": "PUNJAB.json"
+      },
+      "GURDASPUR": {
+        "district": "GURDASPUR",
+        "districtLGD": "035",
+        "state": "PUNJAB",
+        "stateLGD": "03",
+        "jsonFile": "PUNJAB.json"
+      },
+      "KAPURTHALA": {
+        "district": "KAPURTHALA",
+        "districtLGD": "036",
+        "state": "PUNJAB",
+        "stateLGD": "03",
+        "jsonFile": "PUNJAB.json"
+      },
+      "FATEHGARH SAHIB": {
+        "district": "FATEHGARH SAHIB",
+        "districtLGD": "040",
+        "state": "PUNJAB",
+        "stateLGD": "03",
+        "jsonFile": "PUNJAB.json"
+      },
+      "AMRITSAR": {
+        "district": "AMRITSAR",
+        "districtLGD": "049",
+        "state": "PUNJAB",
+        "stateLGD": "03",
+        "jsonFile": "PUNJAB.json"
+      },
+      "MALER KOTLA": {
+        "district": "MALER KOTLA",
+        "districtLGD": "748",
+        "state": "PUNJAB",
+        "stateLGD": "03",
+        "jsonFile": "PUNJAB.json"
+      },
+      "SANGRUR": {
+        "district": "SANGRUR",
+        "districtLGD": "053",
+        "state": "PUNJAB",
+        "stateLGD": "03",
+        "jsonFile": "PUNJAB.json"
+      }
+    },
+    "RAJASTHAN": {
+      "AJMER": {
+        "district": "AJMER",
+        "districtLGD": "119",
+        "state": "RAJASTHAN",
+        "stateLGD": "08",
+        "jsonFile": "RAJASTHAN.json"
+      },
+      "ALWAR": {
+        "district": "ALWAR",
+        "districtLGD": "104",
+        "state": "RAJASTHAN",
+        "stateLGD": "08",
+        "jsonFile": "RAJASTHAN.json"
+      },
+      "BALOTRA": {
+        "district": "BALOTRA",
+        "districtLGD": "785",
+        "state": "RAJASTHAN",
+        "stateLGD": "08",
+        "jsonFile": "RAJASTHAN.json"
+      },
+      "BANSWARA": {
+        "district": "BANSWARA",
+        "districtLGD": "125",
+        "state": "RAJASTHAN",
+        "stateLGD": "08",
+        "jsonFile": "RAJASTHAN.json"
+      },
+      "BARAN": {
+        "district": "BARAN",
+        "districtLGD": "128",
+        "state": "RAJASTHAN",
+        "stateLGD": "08",
+        "jsonFile": "RAJASTHAN.json"
+      },
+      "BARMER": {
+        "district": "BARMER",
+        "districtLGD": "115",
+        "state": "RAJASTHAN",
+        "stateLGD": "08",
+        "jsonFile": "RAJASTHAN.json"
+      },
+      "BEAWAR": {
+        "district": "BEAWAR",
+        "districtLGD": "779",
+        "state": "RAJASTHAN",
+        "stateLGD": "08",
+        "jsonFile": "RAJASTHAN.json"
+      },
+      "BHARATPUR": {
+        "district": "BHARATPUR",
+        "districtLGD": "105",
+        "state": "RAJASTHAN",
+        "stateLGD": "08",
+        "jsonFile": "RAJASTHAN.json"
+      },
+      "BHILWARA": {
+        "district": "BHILWARA",
+        "districtLGD": "122",
+        "state": "RAJASTHAN",
+        "stateLGD": "08",
+        "jsonFile": "RAJASTHAN.json"
+      },
+      "BIKANER": {
+        "district": "BIKANER",
+        "districtLGD": "101",
+        "state": "RAJASTHAN",
+        "stateLGD": "08",
+        "jsonFile": "RAJASTHAN.json"
+      },
+      "BUNDI": {
+        "district": "BUNDI",
+        "districtLGD": "121",
+        "state": "RAJASTHAN",
+        "stateLGD": "08",
+        "jsonFile": "RAJASTHAN.json"
+      },
+      "CHITTAURGARH": {
+        "district": "CHITTAURGARH",
+        "districtLGD": "126",
+        "state": "RAJASTHAN",
+        "stateLGD": "08",
+        "jsonFile": "RAJASTHAN.json"
+      },
+      "CHURU": {
+        "district": "CHURU",
+        "districtLGD": "102",
+        "state": "RAJASTHAN",
+        "stateLGD": "08",
+        "jsonFile": "RAJASTHAN.json"
+      },
+      "DAUSA": {
+        "district": "DAUSA",
+        "districtLGD": "109",
+        "state": "RAJASTHAN",
+        "stateLGD": "08",
+        "jsonFile": "RAJASTHAN.json"
+      },
+      "DEEG": {
+        "district": "DEEG",
+        "districtLGD": "774",
+        "state": "RAJASTHAN",
+        "stateLGD": "08",
+        "jsonFile": "RAJASTHAN.json"
+      },
+      "DHAULPUR": {
+        "district": "DHAULPUR",
+        "districtLGD": "106",
+        "state": "RAJASTHAN",
+        "stateLGD": "08",
+        "jsonFile": "RAJASTHAN.json"
+      },
+      "DIDWANA-KUCHAMAN": {
+        "district": "DIDWANA-KUCHAMAN",
+        "districtLGD": "787",
+        "state": "RAJASTHAN",
+        "stateLGD": "08",
+        "jsonFile": "RAJASTHAN.json"
+      },
+      "DUNGARPUR": {
+        "district": "DUNGARPUR",
+        "districtLGD": "124",
+        "state": "RAJASTHAN",
+        "stateLGD": "08",
+        "jsonFile": "RAJASTHAN.json"
+      },
+      "GANGANAGAR": {
+        "district": "GANGANAGAR",
+        "districtLGD": "099",
+        "state": "RAJASTHAN",
+        "stateLGD": "08",
+        "jsonFile": "RAJASTHAN.json"
+      },
+      "HANUMANGARH": {
+        "district": "HANUMANGARH",
+        "districtLGD": "100",
+        "state": "RAJASTHAN",
+        "stateLGD": "08",
+        "jsonFile": "RAJASTHAN.json"
+      },
+      "JAIPUR": {
+        "district": "JAIPUR",
+        "districtLGD": "110",
+        "state": "RAJASTHAN",
+        "stateLGD": "08",
+        "jsonFile": "RAJASTHAN.json"
+      },
+      "JAISALMER": {
+        "district": "JAISALMER",
+        "districtLGD": "114",
+        "state": "RAJASTHAN",
+        "stateLGD": "08",
+        "jsonFile": "RAJASTHAN.json"
+      },
+      "JALOR": {
+        "district": "JALOR",
+        "districtLGD": "116",
+        "state": "RAJASTHAN",
+        "stateLGD": "08",
+        "jsonFile": "RAJASTHAN.json"
+      },
+      "JHALAWAR": {
+        "district": "JHALAWAR",
+        "districtLGD": "129",
+        "state": "RAJASTHAN",
+        "stateLGD": "08",
+        "jsonFile": "RAJASTHAN.json"
+      },
+      "JHUNJHUNUN": {
+        "district": "JHUNJHUNUN",
+        "districtLGD": "103",
+        "state": "RAJASTHAN",
+        "stateLGD": "08",
+        "jsonFile": "RAJASTHAN.json"
+      },
+      "JODHPUR": {
+        "district": "JODHPUR",
+        "districtLGD": "113",
+        "state": "RAJASTHAN",
+        "stateLGD": "08",
+        "jsonFile": "RAJASTHAN.json"
+      },
+      "KARAULI": {
+        "district": "KARAULI",
+        "districtLGD": "107",
+        "state": "RAJASTHAN",
+        "stateLGD": "08",
+        "jsonFile": "RAJASTHAN.json"
+      },
+      "KHAIRTHAL-TIJARA": {
+        "district": "KHAIRTHAL-TIJARA",
+        "districtLGD": "777",
+        "state": "RAJASTHAN",
+        "stateLGD": "08",
+        "jsonFile": "RAJASTHAN.json"
+      },
+      "KOTA": {
+        "district": "KOTA",
+        "districtLGD": "127",
+        "state": "RAJASTHAN",
+        "stateLGD": "08",
+        "jsonFile": "RAJASTHAN.json"
+      },
+      "KOTPUTLI-BEHROR": {
+        "district": "KOTPUTLI-BEHROR",
+        "districtLGD": "780",
+        "state": "RAJASTHAN",
+        "stateLGD": "08",
+        "jsonFile": "RAJASTHAN.json"
+      },
+      "NAGAUR": {
+        "district": "NAGAUR",
+        "districtLGD": "112",
+        "state": "RAJASTHAN",
+        "stateLGD": "08",
+        "jsonFile": "RAJASTHAN.json"
+      },
+      "PALI": {
+        "district": "PALI",
+        "districtLGD": "118",
+        "state": "RAJASTHAN",
+        "stateLGD": "08",
+        "jsonFile": "RAJASTHAN.json"
+      },
+      "PHALODI": {
+        "district": "PHALODI",
+        "districtLGD": "783",
+        "state": "RAJASTHAN",
+        "stateLGD": "08",
+        "jsonFile": "RAJASTHAN.json"
+      },
+      "PRATAPGARH": {
+        "district": "PRATAPGARH",
+        "districtLGD": "131",
+        "state": "RAJASTHAN",
+        "stateLGD": "08",
+        "jsonFile": "RAJASTHAN.json"
+      },
+      "RAJSAMAND": {
+        "district": "RAJSAMAND",
+        "districtLGD": "123",
+        "state": "RAJASTHAN",
+        "stateLGD": "08",
+        "jsonFile": "RAJASTHAN.json"
+      },
+      "SALUMBAR": {
+        "district": "SALUMBAR",
+        "districtLGD": "775",
+        "state": "RAJASTHAN",
+        "stateLGD": "08",
+        "jsonFile": "RAJASTHAN.json"
+      },
+      "SAWAI MADHOPUR": {
+        "district": "SAWAI MADHOPUR",
+        "districtLGD": "108",
+        "state": "RAJASTHAN",
+        "stateLGD": "08",
+        "jsonFile": "RAJASTHAN.json"
+      },
+      "SIKAR": {
+        "district": "SIKAR",
+        "districtLGD": "111",
+        "state": "RAJASTHAN",
+        "stateLGD": "08",
+        "jsonFile": "RAJASTHAN.json"
+      },
+      "SIROHI": {
+        "district": "SIROHI",
+        "districtLGD": "117",
+        "state": "RAJASTHAN",
+        "stateLGD": "08",
+        "jsonFile": "RAJASTHAN.json"
+      },
+      "TONK": {
+        "district": "TONK",
+        "districtLGD": "120",
+        "state": "RAJASTHAN",
+        "stateLGD": "08",
+        "jsonFile": "RAJASTHAN.json"
+      },
+      "UDAIPUR": {
+        "district": "UDAIPUR",
+        "districtLGD": "130",
+        "state": "RAJASTHAN",
+        "stateLGD": "08",
+        "jsonFile": "RAJASTHAN.json"
+      }
+    },
+    "SIKKIM": {
+      "GYALSHING": {
+        "district": "GYALSHING",
+        "districtLGD": "242",
+        "state": "SIKKIM",
+        "stateLGD": "11",
+        "jsonFile": "SIKKIM.json"
+      },
+      "PAKYONG": {
+        "district": "PAKYONG",
+        "districtLGD": "702",
+        "state": "SIKKIM",
+        "stateLGD": "11",
+        "jsonFile": "SIKKIM.json"
+      },
+      "NAMCHI": {
+        "district": "NAMCHI",
+        "districtLGD": "243",
+        "state": "SIKKIM",
+        "stateLGD": "11",
+        "jsonFile": "SIKKIM.json"
+      },
+      "MANGAN": {
+        "district": "MANGAN",
+        "districtLGD": "241",
+        "state": "SIKKIM",
+        "stateLGD": "11",
+        "jsonFile": "SIKKIM.json"
+      },
+      "GANGTOK": {
+        "district": "GANGTOK",
+        "districtLGD": "244",
+        "state": "SIKKIM",
+        "stateLGD": "11",
+        "jsonFile": "SIKKIM.json"
+      },
+      "SORENG": {
+        "district": "SORENG",
+        "districtLGD": "701",
+        "state": "SIKKIM",
+        "stateLGD": "11",
+        "jsonFile": "SIKKIM.json"
+      }
+    },
+    "TAMIL NADU": {
+      "ARIYALUR": {
+        "district": "ARIYALUR",
+        "districtLGD": "616",
+        "state": "TAMIL NADU",
+        "stateLGD": "33",
+        "jsonFile": "TAMIL NADU.json"
+      },
+      "CHENNAI": {
+        "district": "CHENNAI",
+        "districtLGD": "603",
+        "state": "TAMIL NADU",
+        "stateLGD": "33",
+        "jsonFile": "TAMIL NADU.json"
+      },
+      "COIMBATORE": {
+        "district": "COIMBATORE",
+        "districtLGD": "632",
+        "state": "TAMIL NADU",
+        "stateLGD": "33",
+        "jsonFile": "TAMIL NADU.json"
+      },
+      "CUDDALORE": {
+        "district": "CUDDALORE",
+        "districtLGD": "617",
+        "state": "TAMIL NADU",
+        "stateLGD": "33",
+        "jsonFile": "TAMIL NADU.json"
+      },
+      "ERODE": {
+        "district": "ERODE",
+        "districtLGD": "610",
+        "state": "TAMIL NADU",
+        "stateLGD": "33",
+        "jsonFile": "TAMIL NADU.json"
+      },
+      "KANNIYAKUMARI": {
+        "district": "KANNIYAKUMARI",
+        "districtLGD": "629",
+        "state": "TAMIL NADU",
+        "stateLGD": "33",
+        "jsonFile": "TAMIL NADU.json"
+      },
+      "KARUR": {
+        "district": "KARUR",
+        "districtLGD": "613",
+        "state": "TAMIL NADU",
+        "stateLGD": "33",
+        "jsonFile": "TAMIL NADU.json"
+      },
+      "KRISHNAGIRI": {
+        "district": "KRISHNAGIRI",
+        "districtLGD": "631",
+        "state": "TAMIL NADU",
+        "stateLGD": "33",
+        "jsonFile": "TAMIL NADU.json"
+      },
+      "MAYILADUTHURAI": {
+        "district": "MAYILADUTHURAI",
+        "districtLGD": "696",
+        "state": "TAMIL NADU",
+        "stateLGD": "33",
+        "jsonFile": "TAMIL NADU.json"
+      },
+      "PERAMBALUR": {
+        "district": "PERAMBALUR",
+        "districtLGD": "615",
+        "state": "TAMIL NADU",
+        "stateLGD": "33",
+        "jsonFile": "TAMIL NADU.json"
+      },
+      "THANJAVUR": {
+        "district": "THANJAVUR",
+        "districtLGD": "620",
+        "state": "TAMIL NADU",
+        "stateLGD": "33",
+        "jsonFile": "TAMIL NADU.json"
+      },
+      "THE NILGIRIS": {
+        "district": "THE NILGIRIS",
+        "districtLGD": "611",
+        "state": "TAMIL NADU",
+        "stateLGD": "33",
+        "jsonFile": "TAMIL NADU.json"
+      },
+      "TIRUPATHUR": {
+        "district": "TIRUPATHUR",
+        "districtLGD": "751",
+        "state": "TAMIL NADU",
+        "stateLGD": "33",
+        "jsonFile": "TAMIL NADU.json"
+      },
+      "TIRUPPUR": {
+        "district": "TIRUPPUR",
+        "districtLGD": "633",
+        "state": "TAMIL NADU",
+        "stateLGD": "33",
+        "jsonFile": "TAMIL NADU.json"
+      },
+      "NAGAPATTINAM": {
+        "district": "NAGAPATTINAM",
+        "districtLGD": "618",
+        "state": "TAMIL NADU",
+        "stateLGD": "33",
+        "jsonFile": "TAMIL NADU.json"
+      },
+      "THIRUVARUR": {
+        "district": "THIRUVARUR",
+        "districtLGD": "619",
+        "state": "TAMIL NADU",
+        "stateLGD": "33",
+        "jsonFile": "TAMIL NADU.json"
+      },
+      "THOOTHUKUDI": {
+        "district": "THOOTHUKUDI",
+        "districtLGD": "627",
+        "state": "TAMIL NADU",
+        "stateLGD": "33",
+        "jsonFile": "TAMIL NADU.json"
+      },
+      "TIRUNELVELI": {
+        "district": "TIRUNELVELI",
+        "districtLGD": "628",
+        "state": "TAMIL NADU",
+        "stateLGD": "33",
+        "jsonFile": "TAMIL NADU.json"
+      },
+      "TENKASI": {
+        "district": "TENKASI",
+        "districtLGD": "764",
+        "state": "TAMIL NADU",
+        "stateLGD": "33",
+        "jsonFile": "TAMIL NADU.json"
+      },
+      "VIRUDHUNAGAR": {
+        "district": "VIRUDHUNAGAR",
+        "districtLGD": "625",
+        "state": "TAMIL NADU",
+        "stateLGD": "33",
+        "jsonFile": "TAMIL NADU.json"
+      },
+      "MADURAI": {
+        "district": "MADURAI",
+        "districtLGD": "623",
+        "state": "TAMIL NADU",
+        "stateLGD": "33",
+        "jsonFile": "TAMIL NADU.json"
+      },
+      "SIVAGANGA": {
+        "district": "SIVAGANGA",
+        "districtLGD": "622",
+        "state": "TAMIL NADU",
+        "stateLGD": "33",
+        "jsonFile": "TAMIL NADU.json"
+      },
+      "RAMANATHAPURAM": {
+        "district": "RAMANATHAPURAM",
+        "districtLGD": "626",
+        "state": "TAMIL NADU",
+        "stateLGD": "33",
+        "jsonFile": "TAMIL NADU.json"
+      },
+      "THENI": {
+        "district": "THENI",
+        "districtLGD": "624",
+        "state": "TAMIL NADU",
+        "stateLGD": "33",
+        "jsonFile": "TAMIL NADU.json"
+      },
+      "DINDIGUL": {
+        "district": "DINDIGUL",
+        "districtLGD": "612",
+        "state": "TAMIL NADU",
+        "stateLGD": "33",
+        "jsonFile": "TAMIL NADU.json"
+      },
+      "NAMAKKAL": {
+        "district": "NAMAKKAL",
+        "districtLGD": "609",
+        "state": "TAMIL NADU",
+        "stateLGD": "33",
+        "jsonFile": "TAMIL NADU.json"
+      },
+      "SALEM": {
+        "district": "SALEM",
+        "districtLGD": "608",
+        "state": "TAMIL NADU",
+        "stateLGD": "33",
+        "jsonFile": "TAMIL NADU.json"
+      },
+      "KALLAKURICHI": {
+        "district": "KALLAKURICHI",
+        "districtLGD": "760",
+        "state": "TAMIL NADU",
+        "stateLGD": "33",
+        "jsonFile": "TAMIL NADU.json"
+      },
+      "TIRUVANNAMALAI": {
+        "district": "TIRUVANNAMALAI",
+        "districtLGD": "606",
+        "state": "TAMIL NADU",
+        "stateLGD": "33",
+        "jsonFile": "TAMIL NADU.json"
+      },
+      "PUDUKKOTTAI": {
+        "district": "PUDUKKOTTAI",
+        "districtLGD": "621",
+        "state": "TAMIL NADU",
+        "stateLGD": "33",
+        "jsonFile": "TAMIL NADU.json"
+      },
+      "TIRUCHIRAPPALLI": {
+        "district": "TIRUCHIRAPPALLI",
+        "districtLGD": "614",
+        "state": "TAMIL NADU",
+        "stateLGD": "33",
+        "jsonFile": "TAMIL NADU.json"
+      },
+      "DHARMAPURI": {
+        "district": "DHARMAPURI",
+        "districtLGD": "630",
+        "state": "TAMIL NADU",
+        "stateLGD": "33",
+        "jsonFile": "TAMIL NADU.json"
+      },
+      "VILUPPURAM": {
+        "district": "VILUPPURAM",
+        "districtLGD": "607",
+        "state": "TAMIL NADU",
+        "stateLGD": "33",
+        "jsonFile": "TAMIL NADU.json"
+      },
+      "VELLORE": {
+        "district": "VELLORE",
+        "districtLGD": "605",
+        "state": "TAMIL NADU",
+        "stateLGD": "33",
+        "jsonFile": "TAMIL NADU.json"
+      },
+      "CHENGALPATTU": {
+        "district": "CHENGALPATTU",
+        "districtLGD": "754",
+        "state": "TAMIL NADU",
+        "stateLGD": "33",
+        "jsonFile": "TAMIL NADU.json"
+      },
+      "KANCHEEPURAM": {
+        "district": "KANCHEEPURAM",
+        "districtLGD": "604",
+        "state": "TAMIL NADU",
+        "stateLGD": "33",
+        "jsonFile": "TAMIL NADU.json"
+      },
+      "TIRUVALLUR": {
+        "district": "TIRUVALLUR",
+        "districtLGD": "602",
+        "state": "TAMIL NADU",
+        "stateLGD": "33",
+        "jsonFile": "TAMIL NADU.json"
+      },
+      "RANIPET": {
+        "district": "RANIPET",
+        "districtLGD": "750",
+        "state": "TAMIL NADU",
+        "stateLGD": "33",
+        "jsonFile": "TAMIL NADU.json"
+      }
+    },
+    "TELANGANA": {
+      "ADILABAD": {
+        "district": "ADILABAD",
+        "districtLGD": "532",
+        "state": "TELANGANA",
+        "stateLGD": "36",
+        "jsonFile": "TELANGANA.json"
+      },
+      "BHADRADRI KOTHAGUDEM": {
+        "district": "BHADRADRI KOTHAGUDEM",
+        "districtLGD": "739",
+        "state": "TELANGANA",
+        "stateLGD": "36",
+        "jsonFile": "TELANGANA.json"
+      },
+      "HANUMAKONDA": {
+        "district": "HANUMAKONDA",
+        "districtLGD": "731",
+        "state": "TELANGANA",
+        "stateLGD": "36",
+        "jsonFile": "TELANGANA.json"
+      },
+      "HYDERABAD": {
+        "district": "HYDERABAD",
+        "districtLGD": "536",
+        "state": "TELANGANA",
+        "stateLGD": "36",
+        "jsonFile": "TELANGANA.json"
+      },
+      "JAGTIAL": {
+        "district": "JAGTIAL",
+        "districtLGD": "714",
+        "state": "TELANGANA",
+        "stateLGD": "36",
+        "jsonFile": "TELANGANA.json"
+      },
+      "JANGAON": {
+        "district": "JANGAON",
+        "districtLGD": "737",
+        "state": "TELANGANA",
+        "stateLGD": "36",
+        "jsonFile": "TELANGANA.json"
+      },
+      "JAYASHANKAR BHUPALPALLI": {
+        "district": "JAYASHANKAR BHUPALPALLI",
+        "districtLGD": "736",
+        "state": "TELANGANA",
+        "stateLGD": "36",
+        "jsonFile": "TELANGANA.json"
+      },
+      "JOGULAMBA GADWAL": {
+        "district": "JOGULAMBA GADWAL",
+        "districtLGD": "744",
+        "state": "TELANGANA",
+        "stateLGD": "36",
+        "jsonFile": "TELANGANA.json"
+      },
+      "KAMAREDDY": {
+        "district": "KAMAREDDY",
+        "districtLGD": "719",
+        "state": "TELANGANA",
+        "stateLGD": "36",
+        "jsonFile": "TELANGANA.json"
+      },
+      "KARIMNAGAR": {
+        "district": "KARIMNAGAR",
+        "districtLGD": "534",
+        "state": "TELANGANA",
+        "stateLGD": "36",
+        "jsonFile": "TELANGANA.json"
+      },
+      "KHAMMAM": {
+        "district": "KHAMMAM",
+        "districtLGD": "541",
+        "state": "TELANGANA",
+        "stateLGD": "36",
+        "jsonFile": "TELANGANA.json"
+      },
+      "KUMURAM BHEEM": {
+        "district": "KUMURAM BHEEM",
+        "districtLGD": "705",
+        "state": "TELANGANA",
+        "stateLGD": "36",
+        "jsonFile": "TELANGANA.json"
+      },
+      "MAHABUBABAD": {
+        "district": "MAHABUBABAD",
+        "districtLGD": "738",
+        "state": "TELANGANA",
+        "stateLGD": "36",
+        "jsonFile": "TELANGANA.json"
+      },
+      "MAHBUBNAGAR": {
+        "district": "MAHBUBNAGAR",
+        "districtLGD": "538",
+        "state": "TELANGANA",
+        "stateLGD": "36",
+        "jsonFile": "TELANGANA.json"
+      },
+      "MANCHERIAL": {
+        "district": "MANCHERIAL",
+        "districtLGD": "697",
+        "state": "TELANGANA",
+        "stateLGD": "36",
+        "jsonFile": "TELANGANA.json"
+      },
+      "MEDAK": {
+        "district": "MEDAK",
+        "districtLGD": "535",
+        "state": "TELANGANA",
+        "stateLGD": "36",
+        "jsonFile": "TELANGANA.json"
+      },
+      "MEDCHAL-MALKAJGIRI": {
+        "district": "MEDCHAL-MALKAJGIRI",
+        "districtLGD": "749",
+        "state": "TELANGANA",
+        "stateLGD": "36",
+        "jsonFile": "TELANGANA.json"
+      },
+      "MULUGU": {
+        "district": "MULUGU",
+        "districtLGD": "762",
+        "state": "TELANGANA",
+        "stateLGD": "36",
+        "jsonFile": "TELANGANA.json"
+      },
+      "NAGARKURNOOL": {
+        "district": "NAGARKURNOOL",
+        "districtLGD": "743",
+        "state": "TELANGANA",
+        "stateLGD": "36",
+        "jsonFile": "TELANGANA.json"
+      },
+      "NALGONDA": {
+        "district": "NALGONDA",
+        "districtLGD": "539",
+        "state": "TELANGANA",
+        "stateLGD": "36",
+        "jsonFile": "TELANGANA.json"
+      },
+      "NARAYANPET": {
+        "district": "NARAYANPET",
+        "districtLGD": "763",
+        "state": "TELANGANA",
+        "stateLGD": "36",
+        "jsonFile": "TELANGANA.json"
+      },
+      "NIRMAL": {
+        "district": "NIRMAL",
+        "districtLGD": "700",
+        "state": "TELANGANA",
+        "stateLGD": "36",
+        "jsonFile": "TELANGANA.json"
+      },
+      "NIZAMABAD": {
+        "district": "NIZAMABAD",
+        "districtLGD": "533",
+        "state": "TELANGANA",
+        "stateLGD": "36",
+        "jsonFile": "TELANGANA.json"
+      },
+      "PEDDAPALLI": {
+        "district": "PEDDAPALLI",
+        "districtLGD": "715",
+        "state": "TELANGANA",
+        "stateLGD": "36",
+        "jsonFile": "TELANGANA.json"
+      },
+      "RAJANNA SIRCILLA": {
+        "district": "RAJANNA SIRCILLA",
+        "districtLGD": "717",
+        "state": "TELANGANA",
+        "stateLGD": "36",
+        "jsonFile": "TELANGANA.json"
+      },
+      "RANGA REDDY": {
+        "district": "RANGA REDDY",
+        "districtLGD": "537",
+        "state": "TELANGANA",
+        "stateLGD": "36",
+        "jsonFile": "TELANGANA.json"
+      },
+      "SANGAREDDY": {
+        "district": "SANGAREDDY",
+        "districtLGD": "740",
+        "state": "TELANGANA",
+        "stateLGD": "36",
+        "jsonFile": "TELANGANA.json"
+      },
+      "SIDDIPET": {
+        "district": "SIDDIPET",
+        "districtLGD": "741",
+        "state": "TELANGANA",
+        "stateLGD": "36",
+        "jsonFile": "TELANGANA.json"
+      },
+      "SURYAPET": {
+        "district": "SURYAPET",
+        "districtLGD": "745",
+        "state": "TELANGANA",
+        "stateLGD": "36",
+        "jsonFile": "TELANGANA.json"
+      },
+      "VIKARABAD": {
+        "district": "VIKARABAD",
+        "districtLGD": "747",
+        "state": "TELANGANA",
+        "stateLGD": "36",
+        "jsonFile": "TELANGANA.json"
+      },
+      "WANAPARTHY": {
+        "district": "WANAPARTHY",
+        "districtLGD": "742",
+        "state": "TELANGANA",
+        "stateLGD": "36",
+        "jsonFile": "TELANGANA.json"
+      },
+      "WARANGAL": {
+        "district": "WARANGAL",
+        "districtLGD": "540",
+        "state": "TELANGANA",
+        "stateLGD": "36",
+        "jsonFile": "TELANGANA.json"
+      },
+      "YADADRI BHUVANAGIRI": {
+        "district": "YADADRI BHUVANAGIRI",
+        "districtLGD": "746",
+        "state": "TELANGANA",
+        "stateLGD": "36",
+        "jsonFile": "TELANGANA.json"
+      }
+    },
+    "TRIPURA": {
+      "SOUTH TRIPURA": {
+        "district": "SOUTH TRIPURA",
+        "districtLGD": "290",
+        "state": "TRIPURA",
+        "stateLGD": "16",
+        "jsonFile": "TRIPURA.json"
+      },
+      "WEST TRIPURA": {
+        "district": "WEST TRIPURA",
+        "districtLGD": "289",
+        "state": "TRIPURA",
+        "stateLGD": "16",
+        "jsonFile": "TRIPURA.json"
+      },
+      "DHALAI": {
+        "district": "DHALAI",
+        "districtLGD": "291",
+        "state": "TRIPURA",
+        "stateLGD": "16",
+        "jsonFile": "TRIPURA.json"
+      },
+      "KHOWAI": {
+        "district": "KHOWAI",
+        "districtLGD": "698",
+        "state": "TRIPURA",
+        "stateLGD": "16",
+        "jsonFile": "TRIPURA.json"
+      },
+      "UNAKOTI": {
+        "district": "UNAKOTI",
+        "districtLGD": "706",
+        "state": "TRIPURA",
+        "stateLGD": "16",
+        "jsonFile": "TRIPURA.json"
+      },
+      "NORTH TRIPURA": {
+        "district": "NORTH TRIPURA",
+        "districtLGD": "292",
+        "state": "TRIPURA",
+        "stateLGD": "16",
+        "jsonFile": "TRIPURA.json"
+      },
+      "SEPAHIJALA": {
+        "district": "SEPAHIJALA",
+        "districtLGD": "699",
+        "state": "TRIPURA",
+        "stateLGD": "16",
+        "jsonFile": "TRIPURA.json"
+      },
+      "GOMTI": {
+        "district": "GOMTI",
+        "districtLGD": "725",
+        "state": "TRIPURA",
+        "stateLGD": "16",
+        "jsonFile": "TRIPURA.json"
+      }
+    },
+    "UTTAR PRADESH": {
+      "AGRA": {
+        "district": "AGRA",
+        "districtLGD": "146",
+        "state": "UTTAR PRADESH",
+        "stateLGD": "09",
+        "jsonFile": "UTTAR PRADESH.json"
+      },
+      "ALIGARH": {
+        "district": "ALIGARH",
+        "districtLGD": "143",
+        "state": "UTTAR PRADESH",
+        "stateLGD": "09",
+        "jsonFile": "UTTAR PRADESH.json"
+      },
+      "AMBEDKAR NAGAR": {
+        "district": "AMBEDKAR NAGAR",
+        "districtLGD": "178",
+        "state": "UTTAR PRADESH",
+        "stateLGD": "09",
+        "jsonFile": "UTTAR PRADESH.json"
+      },
+      "AMETHI": {
+        "district": "AMETHI",
+        "districtLGD": "661",
+        "state": "UTTAR PRADESH",
+        "stateLGD": "09",
+        "jsonFile": "UTTAR PRADESH.json"
+      },
+      "AMROHA": {
+        "district": "AMROHA",
+        "districtLGD": "137",
+        "state": "UTTAR PRADESH",
+        "stateLGD": "09",
+        "jsonFile": "UTTAR PRADESH.json"
+      },
+      "AURAIYA": {
+        "district": "AURAIYA",
+        "districtLGD": "162",
+        "state": "UTTAR PRADESH",
+        "stateLGD": "09",
+        "jsonFile": "UTTAR PRADESH.json"
+      },
+      "AYODHYA": {
+        "district": "AYODHYA",
+        "districtLGD": "177",
+        "state": "UTTAR PRADESH",
+        "stateLGD": "09",
+        "jsonFile": "UTTAR PRADESH.json"
+      },
+      "AZAMGARH": {
+        "district": "AZAMGARH",
+        "districtLGD": "191",
+        "state": "UTTAR PRADESH",
+        "stateLGD": "09",
+        "jsonFile": "UTTAR PRADESH.json"
+      },
+      "BAGHPAT": {
+        "district": "BAGHPAT",
+        "districtLGD": "139",
+        "state": "UTTAR PRADESH",
+        "stateLGD": "09",
+        "jsonFile": "UTTAR PRADESH.json"
+      },
+      "BAHRAICH": {
+        "district": "BAHRAICH",
+        "districtLGD": "180",
+        "state": "UTTAR PRADESH",
+        "stateLGD": "09",
+        "jsonFile": "UTTAR PRADESH.json"
+      },
+      "BALLIA": {
+        "district": "BALLIA",
+        "districtLGD": "193",
+        "state": "UTTAR PRADESH",
+        "stateLGD": "09",
+        "jsonFile": "UTTAR PRADESH.json"
+      },
+      "BALRAMPUR": {
+        "district": "BALRAMPUR",
+        "districtLGD": "182",
+        "state": "UTTAR PRADESH",
+        "stateLGD": "09",
+        "jsonFile": "UTTAR PRADESH.json"
+      },
+      "BARA BANKI": {
+        "district": "BARA BANKI",
+        "districtLGD": "176",
+        "state": "UTTAR PRADESH",
+        "stateLGD": "09",
+        "jsonFile": "UTTAR PRADESH.json"
+      },
+      "BAREILLY": {
+        "district": "BAREILLY",
+        "districtLGD": "150",
+        "state": "UTTAR PRADESH",
+        "stateLGD": "09",
+        "jsonFile": "UTTAR PRADESH.json"
+      },
+      "BASTI": {
+        "district": "BASTI",
+        "districtLGD": "185",
+        "state": "UTTAR PRADESH",
+        "stateLGD": "09",
+        "jsonFile": "UTTAR PRADESH.json"
+      },
+      "BHADOHI": {
+        "district": "BHADOHI",
+        "districtLGD": "198",
+        "state": "UTTAR PRADESH",
+        "stateLGD": "09",
+        "jsonFile": "UTTAR PRADESH.json"
+      },
+      "BIJNOR": {
+        "district": "BIJNOR",
+        "districtLGD": "134",
+        "state": "UTTAR PRADESH",
+        "stateLGD": "09",
+        "jsonFile": "UTTAR PRADESH.json"
+      },
+      "BUDAUN": {
+        "district": "BUDAUN",
+        "districtLGD": "149",
+        "state": "UTTAR PRADESH",
+        "stateLGD": "09",
+        "jsonFile": "UTTAR PRADESH.json"
+      },
+      "BULANDSHAHR": {
+        "district": "BULANDSHAHR",
+        "districtLGD": "142",
+        "state": "UTTAR PRADESH",
+        "stateLGD": "09",
+        "jsonFile": "UTTAR PRADESH.json"
+      },
+      "CHANDAULI": {
+        "district": "CHANDAULI",
+        "districtLGD": "196",
+        "state": "UTTAR PRADESH",
+        "stateLGD": "09",
+        "jsonFile": "UTTAR PRADESH.json"
+      },
+      "CHITRAKOOT": {
+        "district": "CHITRAKOOT",
+        "districtLGD": "171",
+        "state": "UTTAR PRADESH",
+        "stateLGD": "09",
+        "jsonFile": "UTTAR PRADESH.json"
+      },
+      "DEORIA": {
+        "district": "DEORIA",
+        "districtLGD": "190",
+        "state": "UTTAR PRADESH",
+        "stateLGD": "09",
+        "jsonFile": "UTTAR PRADESH.json"
+      },
+      "ETAH": {
+        "district": "ETAH",
+        "districtLGD": "201",
+        "state": "UTTAR PRADESH",
+        "stateLGD": "09",
+        "jsonFile": "UTTAR PRADESH.json"
+      },
+      "ETAWAH": {
+        "district": "ETAWAH",
+        "districtLGD": "161",
+        "state": "UTTAR PRADESH",
+        "stateLGD": "09",
+        "jsonFile": "UTTAR PRADESH.json"
+      },
+      "FARRUKHABAD": {
+        "district": "FARRUKHABAD",
+        "districtLGD": "159",
+        "state": "UTTAR PRADESH",
+        "stateLGD": "09",
+        "jsonFile": "UTTAR PRADESH.json"
+      },
+      "FATEHPUR": {
+        "district": "FATEHPUR",
+        "districtLGD": "172",
+        "state": "UTTAR PRADESH",
+        "stateLGD": "09",
+        "jsonFile": "UTTAR PRADESH.json"
+      },
+      "FIROZABAD": {
+        "district": "FIROZABAD",
+        "districtLGD": "147",
+        "state": "UTTAR PRADESH",
+        "stateLGD": "09",
+        "jsonFile": "UTTAR PRADESH.json"
+      },
+      "GAUTAM BUDDHA NAGAR": {
+        "district": "GAUTAM BUDDHA NAGAR",
+        "districtLGD": "141",
+        "state": "UTTAR PRADESH",
+        "stateLGD": "09",
+        "jsonFile": "UTTAR PRADESH.json"
+      },
+      "GHAZIABAD": {
+        "district": "GHAZIABAD",
+        "districtLGD": "140",
+        "state": "UTTAR PRADESH",
+        "stateLGD": "09",
+        "jsonFile": "UTTAR PRADESH.json"
+      },
+      "GHAZIPUR": {
+        "district": "GHAZIPUR",
+        "districtLGD": "195",
+        "state": "UTTAR PRADESH",
+        "stateLGD": "09",
+        "jsonFile": "UTTAR PRADESH.json"
+      },
+      "GONDA": {
+        "district": "GONDA",
+        "districtLGD": "183",
+        "state": "UTTAR PRADESH",
+        "stateLGD": "09",
+        "jsonFile": "UTTAR PRADESH.json"
+      },
+      "GORAKHPUR": {
+        "district": "GORAKHPUR",
+        "districtLGD": "188",
+        "state": "UTTAR PRADESH",
+        "stateLGD": "09",
+        "jsonFile": "UTTAR PRADESH.json"
+      },
+      "HAMIRPUR": {
+        "district": "HAMIRPUR",
+        "districtLGD": "168",
+        "state": "UTTAR PRADESH",
+        "stateLGD": "09",
+        "jsonFile": "UTTAR PRADESH.json"
+      },
+      "HAPUR": {
+        "district": "HAPUR",
+        "districtLGD": "665",
+        "state": "UTTAR PRADESH",
+        "stateLGD": "09",
+        "jsonFile": "UTTAR PRADESH.json"
+      },
+      "HARDOI": {
+        "district": "HARDOI",
+        "districtLGD": "155",
+        "state": "UTTAR PRADESH",
+        "stateLGD": "09",
+        "jsonFile": "UTTAR PRADESH.json"
+      },
+      "HATHRAS": {
+        "district": "HATHRAS",
+        "districtLGD": "144",
+        "state": "UTTAR PRADESH",
+        "stateLGD": "09",
+        "jsonFile": "UTTAR PRADESH.json"
+      },
+      "JALAUN": {
+        "district": "JALAUN",
+        "districtLGD": "165",
+        "state": "UTTAR PRADESH",
+        "stateLGD": "09",
+        "jsonFile": "UTTAR PRADESH.json"
+      },
+      "JAUNPUR": {
+        "district": "JAUNPUR",
+        "districtLGD": "194",
+        "state": "UTTAR PRADESH",
+        "stateLGD": "09",
+        "jsonFile": "UTTAR PRADESH.json"
+      },
+      "JHANSI": {
+        "district": "JHANSI",
+        "districtLGD": "166",
+        "state": "UTTAR PRADESH",
+        "stateLGD": "09",
+        "jsonFile": "UTTAR PRADESH.json"
+      },
+      "KANNAUJ": {
+        "district": "KANNAUJ",
+        "districtLGD": "160",
+        "state": "UTTAR PRADESH",
+        "stateLGD": "09",
+        "jsonFile": "UTTAR PRADESH.json"
+      },
+      "KANPUR DEHAT": {
+        "district": "KANPUR DEHAT",
+        "districtLGD": "163",
+        "state": "UTTAR PRADESH",
+        "stateLGD": "09",
+        "jsonFile": "UTTAR PRADESH.json"
+      },
+      "KANPUR NAGAR": {
+        "district": "KANPUR NAGAR",
+        "districtLGD": "164",
+        "state": "UTTAR PRADESH",
+        "stateLGD": "09",
+        "jsonFile": "UTTAR PRADESH.json"
+      },
+      "KASGANJ": {
+        "district": "KASGANJ",
+        "districtLGD": "202",
+        "state": "UTTAR PRADESH",
+        "stateLGD": "09",
+        "jsonFile": "UTTAR PRADESH.json"
+      },
+      "KAUSHAMBI": {
+        "district": "KAUSHAMBI",
+        "districtLGD": "174",
+        "state": "UTTAR PRADESH",
+        "stateLGD": "09",
+        "jsonFile": "UTTAR PRADESH.json"
+      },
+      "KHERI": {
+        "district": "KHERI",
+        "districtLGD": "153",
+        "state": "UTTAR PRADESH",
+        "stateLGD": "09",
+        "jsonFile": "UTTAR PRADESH.json"
+      },
+      "KUSHINAGAR": {
+        "district": "KUSHINAGAR",
+        "districtLGD": "189",
+        "state": "UTTAR PRADESH",
+        "stateLGD": "09",
+        "jsonFile": "UTTAR PRADESH.json"
+      },
+      "LALITPUR": {
+        "district": "LALITPUR",
+        "districtLGD": "167",
+        "state": "UTTAR PRADESH",
+        "stateLGD": "09",
+        "jsonFile": "UTTAR PRADESH.json"
+      },
+      "LUCKNOW": {
+        "district": "LUCKNOW",
+        "districtLGD": "157",
+        "state": "UTTAR PRADESH",
+        "stateLGD": "09",
+        "jsonFile": "UTTAR PRADESH.json"
+      },
+      "MAHOBA": {
+        "district": "MAHOBA",
+        "districtLGD": "169",
+        "state": "UTTAR PRADESH",
+        "stateLGD": "09",
+        "jsonFile": "UTTAR PRADESH.json"
+      },
+      "MAHRAJGANJ": {
+        "district": "MAHRAJGANJ",
+        "districtLGD": "187",
+        "state": "UTTAR PRADESH",
+        "stateLGD": "09",
+        "jsonFile": "UTTAR PRADESH.json"
+      },
+      "MAINPURI": {
+        "district": "MAINPURI",
+        "districtLGD": "148",
+        "state": "UTTAR PRADESH",
+        "stateLGD": "09",
+        "jsonFile": "UTTAR PRADESH.json"
+      },
+      "MATHURA": {
+        "district": "MATHURA",
+        "districtLGD": "145",
+        "state": "UTTAR PRADESH",
+        "stateLGD": "09",
+        "jsonFile": "UTTAR PRADESH.json"
+      },
+      "MAU": {
+        "district": "MAU",
+        "districtLGD": "192",
+        "state": "UTTAR PRADESH",
+        "stateLGD": "09",
+        "jsonFile": "UTTAR PRADESH.json"
+      },
+      "MEERUT": {
+        "district": "MEERUT",
+        "districtLGD": "138",
+        "state": "UTTAR PRADESH",
+        "stateLGD": "09",
+        "jsonFile": "UTTAR PRADESH.json"
+      },
+      "MIRZAPUR": {
+        "district": "MIRZAPUR",
+        "districtLGD": "199",
+        "state": "UTTAR PRADESH",
+        "stateLGD": "09",
+        "jsonFile": "UTTAR PRADESH.json"
+      },
+      "MORADABAD": {
+        "district": "MORADABAD",
+        "districtLGD": "135",
+        "state": "UTTAR PRADESH",
+        "stateLGD": "09",
+        "jsonFile": "UTTAR PRADESH.json"
+      },
+      "MUZAFFARNAGAR": {
+        "district": "MUZAFFARNAGAR",
+        "districtLGD": "133",
+        "state": "UTTAR PRADESH",
+        "stateLGD": "09",
+        "jsonFile": "UTTAR PRADESH.json"
+      },
+      "PILIBHIT": {
+        "district": "PILIBHIT",
+        "districtLGD": "151",
+        "state": "UTTAR PRADESH",
+        "stateLGD": "09",
+        "jsonFile": "UTTAR PRADESH.json"
+      },
+      "PRATAPGARH": {
+        "district": "PRATAPGARH",
+        "districtLGD": "173",
+        "state": "UTTAR PRADESH",
+        "stateLGD": "09",
+        "jsonFile": "UTTAR PRADESH.json"
+      },
+      "PRAYAGRAJ": {
+        "district": "PRAYAGRAJ",
+        "districtLGD": "175",
+        "state": "UTTAR PRADESH",
+        "stateLGD": "09",
+        "jsonFile": "UTTAR PRADESH.json"
+      },
+      "RAE BARELI": {
+        "district": "RAE BARELI",
+        "districtLGD": "158",
+        "state": "UTTAR PRADESH",
+        "stateLGD": "09",
+        "jsonFile": "UTTAR PRADESH.json"
+      },
+      "RAMPUR": {
+        "district": "RAMPUR",
+        "districtLGD": "136",
+        "state": "UTTAR PRADESH",
+        "stateLGD": "09",
+        "jsonFile": "UTTAR PRADESH.json"
+      },
+      "SAHARANPUR": {
+        "district": "SAHARANPUR",
+        "districtLGD": "132",
+        "state": "UTTAR PRADESH",
+        "stateLGD": "09",
+        "jsonFile": "UTTAR PRADESH.json"
+      },
+      "SAMBHAL": {
+        "district": "SAMBHAL",
+        "districtLGD": "663",
+        "state": "UTTAR PRADESH",
+        "stateLGD": "09",
+        "jsonFile": "UTTAR PRADESH.json"
+      },
+      "SANT KABIR NAGAR": {
+        "district": "SANT KABIR NAGAR",
+        "districtLGD": "186",
+        "state": "UTTAR PRADESH",
+        "stateLGD": "09",
+        "jsonFile": "UTTAR PRADESH.json"
+      },
+      "SHAHJAHANPUR": {
+        "district": "SHAHJAHANPUR",
+        "districtLGD": "152",
+        "state": "UTTAR PRADESH",
+        "stateLGD": "09",
+        "jsonFile": "UTTAR PRADESH.json"
+      },
+      "SHAMLI": {
+        "district": "SHAMLI",
+        "districtLGD": "662",
+        "state": "UTTAR PRADESH",
+        "stateLGD": "09",
+        "jsonFile": "UTTAR PRADESH.json"
+      },
+      "SHRAWASTI": {
+        "district": "SHRAWASTI",
+        "districtLGD": "181",
+        "state": "UTTAR PRADESH",
+        "stateLGD": "09",
+        "jsonFile": "UTTAR PRADESH.json"
+      },
+      "SIDDHARTHNAGAR": {
+        "district": "SIDDHARTHNAGAR",
+        "districtLGD": "184",
+        "state": "UTTAR PRADESH",
+        "stateLGD": "09",
+        "jsonFile": "UTTAR PRADESH.json"
+      },
+      "SITAPUR": {
+        "district": "SITAPUR",
+        "districtLGD": "154",
+        "state": "UTTAR PRADESH",
+        "stateLGD": "09",
+        "jsonFile": "UTTAR PRADESH.json"
+      },
+      "SONBHADRA": {
+        "district": "SONBHADRA",
+        "districtLGD": "200",
+        "state": "UTTAR PRADESH",
+        "stateLGD": "09",
+        "jsonFile": "UTTAR PRADESH.json"
+      },
+      "SULTANPUR": {
+        "district": "SULTANPUR",
+        "districtLGD": "179",
+        "state": "UTTAR PRADESH",
+        "stateLGD": "09",
+        "jsonFile": "UTTAR PRADESH.json"
+      },
+      "UNNAO": {
+        "district": "UNNAO",
+        "districtLGD": "156",
+        "state": "UTTAR PRADESH",
+        "stateLGD": "09",
+        "jsonFile": "UTTAR PRADESH.json"
+      },
+      "VARANASI": {
+        "district": "VARANASI",
+        "districtLGD": "197",
+        "state": "UTTAR PRADESH",
+        "stateLGD": "09",
+        "jsonFile": "UTTAR PRADESH.json"
+      },
+      "BANDA": {
+        "district": "BANDA",
+        "districtLGD": "170",
+        "state": "UTTAR PRADESH",
+        "stateLGD": "09",
+        "jsonFile": "UTTAR PRADESH.json"
+      }
+    },
+    "UTTARAKHAND": {
+      "ALMORA": {
+        "district": "ALMORA",
+        "districtLGD": "064",
+        "state": "UTTARAKHAND",
+        "stateLGD": "05",
+        "jsonFile": "UTTARAKHAND.json"
+      },
+      "BAGESHWAR": {
+        "district": "BAGESHWAR",
+        "districtLGD": "063",
+        "state": "UTTARAKHAND",
+        "stateLGD": "05",
+        "jsonFile": "UTTARAKHAND.json"
+      },
+      "CHAMPAWAT": {
+        "district": "CHAMPAWAT",
+        "districtLGD": "065",
+        "state": "UTTARAKHAND",
+        "stateLGD": "05",
+        "jsonFile": "UTTARAKHAND.json"
+      },
+      "DEHRADUN": {
+        "district": "DEHRADUN",
+        "districtLGD": "060",
+        "state": "UTTARAKHAND",
+        "stateLGD": "05",
+        "jsonFile": "UTTARAKHAND.json"
+      },
+      "HARIDWAR": {
+        "district": "HARIDWAR",
+        "districtLGD": "068",
+        "state": "UTTARAKHAND",
+        "stateLGD": "05",
+        "jsonFile": "UTTARAKHAND.json"
+      },
+      "NAINITAL": {
+        "district": "NAINITAL",
+        "districtLGD": "066",
+        "state": "UTTARAKHAND",
+        "stateLGD": "05",
+        "jsonFile": "UTTARAKHAND.json"
+      },
+      "PAURI GARHWAL": {
+        "district": "PAURI GARHWAL",
+        "districtLGD": "061",
+        "state": "UTTARAKHAND",
+        "stateLGD": "05",
+        "jsonFile": "UTTARAKHAND.json"
+      },
+      "RUDRA PRAYAG": {
+        "district": "RUDRA PRAYAG",
+        "districtLGD": "058",
+        "state": "UTTARAKHAND",
+        "stateLGD": "05",
+        "jsonFile": "UTTARAKHAND.json"
+      },
+      "TEHRI GARHWAL": {
+        "district": "TEHRI GARHWAL",
+        "districtLGD": "059",
+        "state": "UTTARAKHAND",
+        "stateLGD": "05",
+        "jsonFile": "UTTARAKHAND.json"
+      },
+      "UDHAM SINGH NAGAR": {
+        "district": "UDHAM SINGH NAGAR",
+        "districtLGD": "067",
+        "state": "UTTARAKHAND",
+        "stateLGD": "05",
+        "jsonFile": "UTTARAKHAND.json"
+      },
+      "CHAMOLI": {
+        "district": "CHAMOLI",
+        "districtLGD": "057",
+        "state": "UTTARAKHAND",
+        "stateLGD": "05",
+        "jsonFile": "UTTARAKHAND.json"
+      },
+      "PITHORAGARH": {
+        "district": "PITHORAGARH",
+        "districtLGD": "062",
+        "state": "UTTARAKHAND",
+        "stateLGD": "05",
+        "jsonFile": "UTTARAKHAND.json"
+      },
+      "UTTAR KASHI": {
+        "district": "UTTAR KASHI",
+        "districtLGD": "056",
+        "state": "UTTARAKHAND",
+        "stateLGD": "05",
+        "jsonFile": "UTTARAKHAND.json"
+      }
+    },
+    "WEST BENGAL": {
+      "SOUTH 24 PARGANAS": {
+        "district": "SOUTH 24 PARGANAS",
+        "districtLGD": "343",
+        "state": "WEST BENGAL",
+        "stateLGD": "19",
+        "jsonFile": "WEST BENGAL.json"
+      },
+      "PURULIYA": {
+        "district": "PURULIYA",
+        "districtLGD": "340",
+        "state": "WEST BENGAL",
+        "stateLGD": "19",
+        "jsonFile": "WEST BENGAL.json"
+      },
+      "PASCHIM MEDINIPUR": {
+        "district": "PASCHIM MEDINIPUR",
+        "districtLGD": "344",
+        "state": "WEST BENGAL",
+        "stateLGD": "19",
+        "jsonFile": "WEST BENGAL.json"
+      },
+      "PASCHIM BARDDHAMAN": {
+        "district": "PASCHIM BARDDHAMAN",
+        "districtLGD": "728",
+        "state": "WEST BENGAL",
+        "stateLGD": "19",
+        "jsonFile": "WEST BENGAL.json"
+      },
+      "JHARGRAM": {
+        "district": "JHARGRAM",
+        "districtLGD": "727",
+        "state": "WEST BENGAL",
+        "stateLGD": "19",
+        "jsonFile": "WEST BENGAL.json"
+      },
+      "HUGLI": {
+        "district": "HUGLI",
+        "districtLGD": "338",
+        "state": "WEST BENGAL",
+        "stateLGD": "19",
+        "jsonFile": "WEST BENGAL.json"
+      },
+      "BANKURA": {
+        "district": "BANKURA",
+        "districtLGD": "339",
+        "state": "WEST BENGAL",
+        "stateLGD": "19",
+        "jsonFile": "WEST BENGAL.json"
+      },
+      "PURBA MEDINIPUR": {
+        "district": "PURBA MEDINIPUR",
+        "districtLGD": "345",
+        "state": "WEST BENGAL",
+        "stateLGD": "19",
+        "jsonFile": "WEST BENGAL.json"
+      },
+      "PURBA BARDDHAMAN": {
+        "district": "PURBA BARDDHAMAN",
+        "districtLGD": "335",
+        "state": "WEST BENGAL",
+        "stateLGD": "19",
+        "jsonFile": "WEST BENGAL.json"
+      },
+      "KALIMPONG": {
+        "district": "KALIMPONG",
+        "districtLGD": "716",
+        "state": "WEST BENGAL",
+        "stateLGD": "19",
+        "jsonFile": "WEST BENGAL.json"
+      },
+      "HOWRAH": {
+        "district": "HOWRAH",
+        "districtLGD": "341",
+        "state": "WEST BENGAL",
+        "stateLGD": "19",
+        "jsonFile": "WEST BENGAL.json"
+      },
+      "BIRBHUM": {
+        "district": "BIRBHUM",
+        "districtLGD": "334",
+        "state": "WEST BENGAL",
+        "stateLGD": "19",
+        "jsonFile": "WEST BENGAL.json"
+      },
+      "KOLKATA": {
+        "district": "KOLKATA",
+        "districtLGD": "342",
+        "state": "WEST BENGAL",
+        "stateLGD": "19",
+        "jsonFile": "WEST BENGAL.json"
+      },
+      "NORTH 24 PARGANAS": {
+        "district": "NORTH 24 PARGANAS",
+        "districtLGD": "337",
+        "state": "WEST BENGAL",
+        "stateLGD": "19",
+        "jsonFile": "WEST BENGAL.json"
+      },
+      "NADIA": {
+        "district": "NADIA",
+        "districtLGD": "336",
+        "state": "WEST BENGAL",
+        "stateLGD": "19",
+        "jsonFile": "WEST BENGAL.json"
+      },
+      "MALDAH": {
+        "district": "MALDAH",
+        "districtLGD": "332",
+        "state": "WEST BENGAL",
+        "stateLGD": "19",
+        "jsonFile": "WEST BENGAL.json"
+      },
+      "DAKSHIN DINAJPUR": {
+        "district": "DAKSHIN DINAJPUR",
+        "districtLGD": "331",
+        "state": "WEST BENGAL",
+        "stateLGD": "19",
+        "jsonFile": "WEST BENGAL.json"
+      },
+      "UTTAR DINAJPUR": {
+        "district": "UTTAR DINAJPUR",
+        "districtLGD": "330",
+        "state": "WEST BENGAL",
+        "stateLGD": "19",
+        "jsonFile": "WEST BENGAL.json"
+      },
+      "DARJEELING": {
+        "district": "DARJEELING",
+        "districtLGD": "327",
+        "state": "WEST BENGAL",
+        "stateLGD": "19",
+        "jsonFile": "WEST BENGAL.json"
+      },
+      "ALIPURDUAR": {
+        "district": "ALIPURDUAR",
+        "districtLGD": "675",
+        "state": "WEST BENGAL",
+        "stateLGD": "19",
+        "jsonFile": "WEST BENGAL.json"
+      },
+      "MURSHIDABAD": {
+        "district": "MURSHIDABAD",
+        "districtLGD": "333",
+        "state": "WEST BENGAL",
+        "stateLGD": "19",
+        "jsonFile": "WEST BENGAL.json"
+      },
+      "JALPAIGURI": {
+        "district": "JALPAIGURI",
+        "districtLGD": "328",
+        "state": "WEST BENGAL",
+        "stateLGD": "19",
+        "jsonFile": "WEST BENGAL.json"
+      },
+      "KOCH BIHAR": {
+        "district": "KOCH BIHAR",
+        "districtLGD": "329",
+        "state": "WEST BENGAL",
+        "stateLGD": "19",
+        "jsonFile": "WEST BENGAL.json"
+      }
+    }
+  },
+  "stateLGD": {
+    "10": "BIHAR",
+    "11": "SIKKIM",
+    "12": "ARUNACHAL PRADESH",
+    "13": "NAGALAND",
+    "14": "MANIPUR",
+    "15": "MIZORAM",
+    "16": "TRIPURA",
+    "17": "MEGHALAYA",
+    "18": "ASSAM",
+    "19": "WEST BENGAL",
+    "20": "JHARKHAND",
+    "21": "ODISHA",
+    "22": "CHHATTISGARH",
+    "23": "MADHYA PRADESH",
+    "24": "GUJARAT",
+    "26": "DADRA & NAGAR HAVELI & DAMAN & DIU",
+    "27": "MAHARASHTRA",
+    "28": "ANDHRA PRADESH",
+    "29": "KARNATAKA",
+    "30": "GOA",
+    "31": "LAKSHADWEEP",
+    "32": "KERALA",
+    "33": "TAMIL NADU",
+    "34": "PUDUCHERRY",
+    "35": "ANDAMAN AND NICOBAR ISLANDS",
+    "36": "TELANGANA",
+    "37": "LADAKH",
+    "04": "CHANDIGARH",
+    "07": "DELHI",
+    "06": "HARYANA",
+    "02": "HIMACHAL PRADESH",
+    "01": "JAMMU AND KASHMIR",
+    "03": "PUNJAB",
+    "08": "RAJASTHAN",
+    "09": "UTTAR PRADESH",
+    "05": "UTTARAKHAND"
+  }
+}
